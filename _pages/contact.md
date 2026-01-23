@@ -7,5 +7,5 @@ permalink: /contact
 ---
 
 # Contact Us.
-Organizer: Tangshan Institute of Southwest JiaotongUniversity.
-For any needs or special requests, please write to **tsky@swjtu.edu.cn**
+Organizer: School of Business and Economics, Jeonbuk National University.
+For any needs or special requests, please write to **koyaku@jbnu.ac.kr**
