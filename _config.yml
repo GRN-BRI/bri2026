@@ -9,8 +9,8 @@
 title: Annual conference of GRN-BRI
 email: tsky@swjtu.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  The 10th Global Research Network-Belt and Road Initiative (GRN-BRI)
-baseurl: "bri2025"
+  The 11th Global Research Network-Belt and Road Initiative (GRN-BRI)
+baseurl: "bri2026"
 url: "https://grn-bri.github.io/"
 
 include:
