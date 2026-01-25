@@ -20,6 +20,12 @@ To participate in the conference, registration must be completed through on-site
 {: .table .table-bordered}
 <br>
 
+
+### Payment Method
+<mark>(To be added)<mark>
+<br>
+
+
 ### Agenda
 
 | Dates | Activity |
