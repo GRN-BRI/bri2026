@@ -26,7 +26,7 @@ The Conference Organizer is pleased to announce that the papers presented and se
 6. **International Journal of Shipping and Transport Logistics (IJSTL)**[journal link](https://www.inderscience.com/jhome.php?jcode=ijstl)
 7. **Special issue of Journal of Shipping and Trade (JST)**[journal link](https://jshippingandtrade.springeropen.com/)
    
-**Note** The JST (Scopus) has been applied for SSCI last year. Hoping our special issue of the journal could be SSCI soon.
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
