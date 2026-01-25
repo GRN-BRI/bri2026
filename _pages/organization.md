@@ -7,6 +7,45 @@ permalink: /organization/
 ---
 
 # Organization
+
+## General Chair
+Professor [Kyoung-Suk Choi](https://jingshuchoi.wixsite.com/website), Associate Professor and Dean, School of Business and Economics  
+Jeonbuk National University, Jeonju, Republic of Korea
+
+---
+
+## Program Committee Chairs
+Professor Paul Tae-Woo Lee, Director, Maritime Logistics and Free Trade Islands Research Center  
+Ocean College, Zhejiang University, China
+
+---
+
+## Conference Organizer
+Jeonbuk National University, Jeonju City, Korea  
+<mark>(To be added)<mark>
+
+---
+
+## International Organizing Committee
+<mark>(To be added)<mark>
+
+---
+
+## Local Organizing Committee
+**Jeonbuk National University, Jeonju City, Korea**
+
+Prof. Yoon Lee, School of Business and Economics
+Prof. Jae Hun Shim, School of Business and Economics
+Prof. Hanbyul Choi, School of Business and Economics
+Xia Wu (Ph.D. Candidate),  School of Business and Economics
+Xiaoxuan Xie (Ph.D. Candidate),  School of Business and Economics
+Zhipeng Wang (Master Student),  School of Business and Economics
+Dechang Tian (Master Student),  School of Business and Economics
+Name (Master Student),  School of Business and Economics
+Name (Master Student),  School of Business and Economics
+Name (Master Student),  School of Business and Economics
+  
+
  
 [//]: # ()
 [//]: # ()
