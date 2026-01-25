@@ -8,36 +8,43 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** The conference will be based on primary theme of “Supply Chain 5.0: AI-Driven Innovation inManufacturing Supply Chain, Sea-Rail JointTransportation, Sustainability, and Green Logistics amidst De-Globalization: Empowering International Trade and Logistics”
+**Theme:** The conference will be based on the primary theme of <mark>“Navigating the Sustainable Global Economic Paradigm Shift: Digitalization, AI-Driven Innovation, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order”<mark>
 
 **In the following tracks, but are not limited to:**
 
-**SUPPLY CHAIN INTEGRATION AND RESILIENCE**
-- SUSTAINABLE LOGISTIC NETWORK DESIGN
-- DIGITALIZED SYSTEM AND TRACEABILITY
-- NEW AND EMERGING TECHNOLOGIES FOR URBAN LOGISTICS
-- SUPPLY CHAIN FLEXIBILITY THROUGH ARTIFICIAL INTELLIGENCE
-- GREEN LOGISTICS AND TRANSPORT PROCESSES
-- HUMANITARIAN SUPPLY CHAIN AND LEAN PRINCIPLES
-- MANUFACTURING SUPPLY CHAIN INNOVATIVE ORGANIZING
-  
-**MARITIME TRANSPORT AND LOGISTICS MANAGEMENT**
-- DIGITALIZATION AND DECARBONIZATION IN MARITIME TRANSPORT AND LOGISTICS
-- GLOBAL LOGISTICS DISTRIBUTION CENTER ALONG BRI
-- SMART PORT DEVELOPMENT
-- SUSTAINABLE DEVELOPMENT OF BRI
-- OPTIMIZATION MODEL OF MULTIMODAL TRANSPORTATION
-- AI-BASED RESEARCH ISSUES IN THE SHIPPING AND PORT SECTOR
-- GREEN SHIPPING AND DIGITAL CORRIDORS
+**Digital Transformation, AI, and Intelligent Systems**
+Focuses on the technological drivers reshaping the industry, including AI, data, and digital infrastructure.
 
-**DIGITAL BUSINESS TRANSFORMATIONS**
-- DIGITAL STRATEGY AND INNOVATION
-- DATA ANALYTICS AND DECISION-MAKING
-- BLOCKCHAIN TECHNOLOGY AND BUSINESS SOLUTIONS
-- ARTIFICIAL INTELLIGENCE, MACHINE LEARNING AND BLOCKCHAIN INTEGRATION
+-	Digitalization and Smart Logistics Ecosystems
+-	AI-Driven Optimization in Global Trade Networks
+-	Blockchain for Traceability, Transparency, and Trust
+-	Data Analytics for Risk Management and Decision Making
+-	Digital Twins and Cyber-Physical Systems in Supply Chains
+-	Machine Learning Applications in Freight Transport
+-	Digital Platforms and Supply Chain Finance
+-	Human-Centric Digital Transformation (Industry 5.0)
 
-**The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals,
-such as Transport Policy, Maritime Policy & Management, Sustainability, and the International Journal of Logistics Management after a rigorous review process.**
+**Sustainability, Decarbonization, and ESG Management**
+Focuses on environmental goals, ethical responsibilities, and the transition to a net-zero economy.
+
+- ESG Integration and Sustainable Corporate Strategy
+-	Decarbonization Pathways in Maritime, Air, and Land Transport
+-	Green Logistics and Circular Economy Models
+-	Ethical Sourcing and Social Responsibility (ESG)
+-	Climate Resilience and Adaptation in Logistics Networks
+-	Renewable Energy Adoption in Transportation
+
+**Global Trade, Resilience, and Smart Infrastructure**
+Focuses on the macro-economic context, physical infrastructure, and operational resilience in the new trade era.
+-	Global Supply Chain Resilience in the New Trade Order
+-	Smart Ports and Autonomous Shipping Technologies
+-	Sustainable Multimodal Transportation Networks
+-	Cross-Border E-Commerce and Digital Trade Infrastructure
+-	Innovation in Urban Logistics and Last-Mile Delivery
+-	Global Trade Policy and Regulatory Compliance
+
+
+**Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as <mark>Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.<mark>**
 
 
 ### Template：
@@ -46,10 +53,10 @@ such as Transport Policy, Maritime Policy & Management, Sustainability, and the 
 
 
 ### Conference Key Dates：
-1. Abstract submission deadline: **November 5, 2025.**
-2. Registration deadline: **November 20, 2025.**
-3. Full paper submission deadline: **November 25, 2025.**
-4. Conference dates: **November 28–30, 2025.**
+1. <mark>Abstract submission deadline: **November 5, 2026.**<mark>
+2. <mark>Registration deadline: **November 20, 2026.**<mark>
+3. <mark>Full paper submission deadline: **November 25, 2026.**<mark>
+4. Conference dates: **November 26–28, 2026.**
 
 
 
