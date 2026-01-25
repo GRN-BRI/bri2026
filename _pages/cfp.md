@@ -48,8 +48,8 @@ Focuses on the macro-economic context, physical infrastructure, and operational 
 
 
 ### Template：
-- [Abstract Template](/assets//download/Abstract Template_JBNU.docx)
-- [Full Paper Template](/assets//download/Full Paper Template_JBNU.docx)
+- [Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx)
+- [Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)
 
 
 ### Conference Key Dates：
