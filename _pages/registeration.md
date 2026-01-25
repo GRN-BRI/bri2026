@@ -6,27 +6,27 @@ sitemap: false
 permalink: /registeration
 ---
 
+
 # Registration
-To participate in the conference, registration must becompleted through the on-site payment. 
 
+To participate in the conference, registration must be completed through on-site payment.
 
-| Particulars &nbsp;|&nbsp; US $ | RMB |
-| :--- | :--- | :--- |
-| Scholars / Enterprises /<br/> Government / Other <br/>Representatives &nbsp;|&nbsp; 300 | 2000 |
-| Students &nbsp;|&nbsp; 200 | 1300 |
+### Registration Fees
 
- <br>
- <br>
-**Agenda:**
+| Participant Category | USD ($) | RMB (¥) | KRW (₩) |
+| :--- | :---: | :---: | :---: |
+| **Scholars / Enterprises /<br>Govt. Representatives** | 300 | 2,000 | 440,000 |
+| **Students** | 200 | 1,300 | 300,000 |
 
-| Dates &nbsp;|&nbsp; Activity |
+<br>
+
+### Agenda
+
+| Dates | Activity |
 | :--- | :--- |
-| November 28, 2025 &nbsp;|&nbsp; Registration |
-| November 29, 2025 &nbsp;|&nbsp; Main session / Parallel session |
-| November 30, 2025 &nbsp;|&nbsp; Parallel session / Industry visit |
- 
-
-
+| **November 26, 2026** | Registration |
+| **November 27, 2026** | Main Session / Parallel Session |
+| **November 28, 2026** | Parallel Session / Industry Visit |
  
 
 
