@@ -9,7 +9,7 @@ permalink: /organization/
 # Organization
 
 ## General Chair
-Professor [Kyoung-Suk Choi](https://jingshuchoi.wixsite.com/website)<br>
+Professor Kyoung-Suk Choi<br>
 Associate Professor and Dean, School of Business and Economics,Jeonbuk National University, Jeonju, Republic of Korea
 
 
