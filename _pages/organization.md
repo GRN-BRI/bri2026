@@ -37,14 +37,15 @@ Jeonbuk National University, Jeonju City, Korea
 
 Prof. Yoon Lee, School of Business and Economics <br>
 Prof. Jae Hun Shim, School of Business and Economics <br>
-Prof. Hanbyul Choi, School of Business and Economics <br>
+Prof. Hanbyul Choi, School of Social Sciences <br>
+<br>
 Xia Wu (Ph.D. Candidate),  School of Business and Economics <br>
 Xiaoxuan Xie (Ph.D. Candidate),  School of Business and Economics <br>
 Zhipeng Wang (Master Student),  School of Business and Economics <br>
 Dechang Tian (Master Student),  School of Business and Economics <br>
-Name (Master Student),  School of Business and Economics <br>
-Name (Master Student),  School of Business and Economics <br>
-Name (Master Student),  School of Business and Economics
+Name1 (Master Student),  School of Business and Economics <br>
+Name2 (Master Student),  School of Business and Economics <br>
+Name3 (Master Student),  School of Business and Economics
   
 
  
