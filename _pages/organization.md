@@ -10,7 +10,7 @@ permalink: /organization/
 
 ## General Chair
 Professor Kyoung-Suk Choi<br>
-Associate Professor and Dean, School of Business and Economics,Jeonbuk National University, Jeonju, Republic of Korea
+Associate Professor and Dean, College of Business and Economics,Jeonbuk National University, Jeonju, Republic of Korea
 
 
 
@@ -35,17 +35,17 @@ Jeonbuk National University, Jeonju City, Korea
 ## Local Organizing Committee
 **Jeonbuk National University, Jeonju City, Korea**
 
-Prof. Yoon Lee, School of Business and Economics <br>
-Prof. Jae Hun Shim, School of Business and Economics <br>
-Prof. Hanbyul Choi, School of Social Sciences <br>
+Prof. Yoon Lee, College of Business and Economics <br>
+Prof. Jae Hun Shim, College of Business and Economics <br>
+Prof. Hanbyul Choi, College of Social Sciences <br>
 <br>
-Xia Wu (Ph.D. Candidate),  School of Business and Economics <br>
-Xiaoxuan Xie (Ph.D. Candidate),  School of Business and Economics <br>
-Zhipeng Wang (Master Student),  School of Business and Economics <br>
-Dechang Tian (Master Student),  School of Business and Economics <br>
-Name1 (Master Student),  School of Business and Economics <br>
-Name2 (Master Student),  School of Business and Economics <br>
-Name3 (Master Student),  School of Business and Economics
+Xia Wu (Ph.D. Candidate),  College of Business and Economics <br>
+Xiaoxuan Xie (Ph.D. Candidate),  College of Business and Economicss <br>
+Zhipeng Wang (Master Student),  College of Business and Economicss <br>
+Dechang Tian (Master Student),  College of Business and Economicss <br>
+Name1 (Master Student),  College of Business and Economics <br>
+Name2 (Master Student),  College of Business and Economicss <br>
+Name3 (Master Student),  College of Business and Economics
   
 
  
