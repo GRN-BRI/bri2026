@@ -12,7 +12,7 @@ permalink: /cfp
 
 **In the following tracks, but are not limited to:**
 
-**Digital Transformation, AI, and Intelligent Systems**
+**Digital Transformation, AI, and Intelligent Systems**<br>
 Focuses on the technological drivers reshaping the industry, including AI, data, and digital infrastructure.
 
 -	Digitalization and Smart Logistics Ecosystems
@@ -24,7 +24,7 @@ Focuses on the technological drivers reshaping the industry, including AI, data,
 -	Digital Platforms and Supply Chain Finance
 -	Human-Centric Digital Transformation (Industry 5.0)
 
-**Sustainability, Decarbonization, and ESG Management**
+**Sustainability, Decarbonization, and ESG Management**<br>
 Focuses on environmental goals, ethical responsibilities, and the transition to a net-zero economy.
 
 - ESG Integration and Sustainable Corporate Strategy
@@ -34,7 +34,7 @@ Focuses on environmental goals, ethical responsibilities, and the transition to 
 -	Climate Resilience and Adaptation in Logistics Networks
 -	Renewable Energy Adoption in Transportation
 
-**Global Trade, Resilience, and Smart Infrastructure**
+**Global Trade, Resilience, and Smart Infrastructure**<br>
 Focuses on the macro-economic context, physical infrastructure, and operational resilience in the new trade era.
 -	Global Supply Chain Resilience in the New Trade Order
 -	Smart Ports and Autonomous Shipping Technologies
