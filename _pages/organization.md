@@ -40,11 +40,11 @@ Prof. Jae Hun Shim, College of Business and Economics <br>
 Prof. Hanbyul Choi, College of Social Sciences <br>
 <br>
 Xia Wu (Ph.D. Candidate),  College of Business and Economics <br>
-Xiaoxuan Xie (Ph.D. Candidate),  College of Business and Economicss <br>
-Zhipeng Wang (Master Student),  College of Business and Economicss <br>
-Dechang Tian (Master Student),  College of Business and Economicss <br>
+Xiaoxuan Xie (Ph.D. Candidate),  College of Business and Economics <br>
+Zhipeng Wang (Master Student),  College of Business and Economics <br>
+Dechang Tian (Master Student),  College of Business and Economics <br>
 Name1 (Master Student),  College of Business and Economics <br>
-Name2 (Master Student),  College of Business and Economicss <br>
+Name2 (Master Student),  College of Business and Economics <br>
 Name3 (Master Student),  College of Business and Economics
   
 
