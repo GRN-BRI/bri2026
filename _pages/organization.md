@@ -35,9 +35,10 @@ Jeonbuk National University, Jeonju City, Korea
 ## Local Organizing Committee
 **Jeonbuk National University, Jeonju City, Korea**
 
+Prof. Bangwool Han, College of Business and Economics <br>
 Prof. Yoon Lee, College of Business and Economics <br>
-Prof. Jae Hun Shim, College of Business and Economics <br>
 Prof. Hanbyul Choi, College of Social Sciences <br>
+
 <br>
 Xia Wu (Ph.D. Candidate),  College of Business and Economics <br>
 Xiaoxuan Xie (Ph.D. Candidate),  College of Business and Economics <br>
