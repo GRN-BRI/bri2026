@@ -8,4 +8,4 @@ permalink: /contact
 
 # Contact Us.
 Organizer: School of Business and Economics, Jeonbuk National University.<br>
-For any needs or special requests, please write to <mark>**koyaku@jbnu.ac.kr**<mark>
+For any needs or special requests, please write to koyaku@jbnu.ac.kr
