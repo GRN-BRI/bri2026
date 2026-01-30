@@ -8,46 +8,43 @@ permalink: /organization/
 
 # Organization
 
-## General Chair
-Professor Kyoung-Suk Choi<br>
-Associate Professor and Dean, College of Business and Economics,Jeonbuk National University, Jeonju, Republic of Korea
 
-
-
-## Program Committee Chairs
-Professor Paul Tae-Woo Lee<br>
-Director, Maritime Logistics and Free Trade Islands Research Center, Ocean College, Zhejiang University, China
-
-<mark>(To be added)<mark>
-
-
-## Conference Organizer
-Jeonbuk National University, Jeonju City, Korea  
-<mark>(To be added)<mark>
-
-
-
-## International Organizing Committee
-<mark>(To be added)<mark>
-
-
-
-## Local Organizing Committee
-**Jeonbuk National University, Jeonju City, Korea**
-
-Prof. Bangwool Han, College of Business and Economics <br>
-Prof. Yoon Lee, College of Business and Economics <br>
-Prof. Hanbyul Choi, College of Social Sciences <br>
-
+## International Steering Committee / Executive Committee
+**Chairperson**<br>
+Prof. Prem Chhetri, RMIT University, Australia<br>
+**Secretary General**<br>
+Prof. Paul Tae-Woo Lee, Zhejiang University, China<br>
+**Academic Affairs Leader**<br>
+Prof. Zhong Zhen Yang, Ningbo University, China<br>
 <br>
-Xia Wu (Ph.D. Candidate),  College of Business and Economics <br>
-Xiaoxuan Xie (Ph.D. Candidate),  College of Business and Economics <br>
-Zhipeng Wang (Master Student),  College of Business and Economics <br>
-Dechang Tian (Master Student),  College of Business and Economics <br>
-Name1 (Master Student),  College of Business and Economics <br>
-Name2 (Master Student),  College of Business and Economics <br>
-Name3 (Master Student),  College of Business and Economics
-  
+## General Chair <br>
+Prof. Kyoung-Suk Choi, Associate Professor and Dean, College of Business and Economics, Jeonbuk National University, Jeonju, Korea
+<br>
+<br>
+## International Program Committee <br>
+<mark>(To be added)<mark>
+<br>
+<br>
+## Local Organizing Committee<br>
+Prof. Bangwool Han, Jeonbuk National University, Jeonju, Korea <br>
+Prof. Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
+Prof. Hanbyul Choi, Jeonbuk National University, Jeonju, Korea
+<br>
+<br>
+## Conference Secretariat<br>
+Xia Wu (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
+Xiaoxuan Xie (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
+Zhipeng Wang (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
+Dechang Tian (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
+<mark>(To be added)<mark>
+
+## Organizers & Sponsors<br>
+**Hosted by**<br>
+Jeonbuk National University, Jeonju City, Korea<br>
+<br>
+<br>
+**Organized by**<br>
+<mark>(To be added)<mark>
 
  
 [//]: # ()
