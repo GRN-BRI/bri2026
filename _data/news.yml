@@ -1,8 +1,8 @@
-- date: October 20, 2026
-  headline: "<a href='/bri2026/downloads/Abstract%20Template_JBNU.docx' class='button' target='_blank'>Abstract Template</a> <br/> <a href='/bri2026/downloads/Full%20Paper%20Template_JBNU.docx' class='button' target='_blank'>Full Paper Template</a>"
+- date: Conference Information
+  headline: "<strong>Date</strong>: November 26-28, 2026<br> <strong>Venue</strong>: Jeonbuk National University, Jeonju, Korea<br>"
 
-- date: October 15, 2026
-  headline: "The Conference Organizer is pleased to announce that the papers presented and selected at the conference will be reviewed by the Academic Committee and recommended to the international journals as follows. Each journal will rigorously review them for possible publication: <strong>TRE, TP, IJLM, MPM, IJSTL, OCMA and JST</strong>"
+- date: Submission deadlines
+  headline: "<strong>Abstract Submission</strong>: 2026.00.00<br> <a href='/bri2026/downloads/Abstract%20Template_JBNU.docx' class='button' target='_blank'>Abstract Template</a> <br> <strong>Full paper Submission</strong>: 2026.00.00</br><a href='/bri2026/downloads/Full%20Paper%20Template_JBNU.docx' class='button' target='_blank'>Full Paper Template</a>"
 
-- date: IMPORTANT DATES
-  headline: "Abstract submission deadline:<strong> November 5, 2026 </strong></br> Registration deadline: <strong> November 20, 2026 </strong></br>Full paper submission deadline: <strong>November 25, 2026</strong></br>Conference dates:<strong> November 26–28, 2026</strong>"
+- date: Registration
+  headline: "<strong>Early Bird Registration</strong>:2026.00.00<br> <strong>Regular Registration</strong>:2026.00.00<br>"
