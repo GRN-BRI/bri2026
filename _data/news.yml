@@ -1,8 +1,8 @@
-- date: Conference Information
+- date: <strong>Conference Information</strong>
   headline: "<strong>Date</strong>: November 26-28, 2026<br> <strong>Venue</strong>: Jeonbuk National University, Jeonju, Korea<br>"
 
-- date: Submission deadlines
+- date: <strong>Submission deadlines</strong>
   headline: "<strong>Abstract Submission</strong>: 2026.00.00<br> <a href='/bri2026/downloads/Abstract%20Template_JBNU.docx' class='button' target='_blank'>Abstract Template</a> <br> <strong>Full paper Submission</strong>: 2026.00.00</br><a href='/bri2026/downloads/Full%20Paper%20Template_JBNU.docx' class='button' target='_blank'>Full Paper Template</a>"
 
-- date: Registration
+- date: <strong>Registration</strong>
   headline: "<strong>Early Bird Registration</strong>:2026.00.00<br> <strong>Regular Registration</strong>:2026.00.00<br>"
