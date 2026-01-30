@@ -6,9 +6,20 @@ sitemap: false
 permalink: /submission
 ---
 
-# Submission.
+# Submission
 
-This conference only accepts abstracts of current work.
-Abstracts should be written in English and be between 500 and 800 words in length.
-The deadline for abstract submissions is <mark>November 5, 2026.<mark> 
-Please submit your abstract via email to **<mark>(to be added)<mark>**
+## 1. Abstract Submission
+- Deadline: <mark>(Date to be added)</mark>
+- Word Count: 500 – 800 words (English Only).
+- Requirement: Original work only.
+- Template: [Download Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx)
+
+## 2. Full Paper Submission
+- Deadline: <mark>(Date to be added)</mark>
+- Word Count: 5000 – 7000 words(English Only).
+- Requirement: Original work only.
+- Template: [Download Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)
+
+## 3. How to Submit
+Please submit your abstract or full paper via email to **xxxidgkris@jbnu.ac.kr**
+
