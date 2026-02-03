@@ -66,9 +66,9 @@ The GRN-BRI 2026 will be held at **Jeonbuk National University** in Jeonju City,
 
 <br>
 
-## Conference Theme: Re-Connecting Global Trade and Logistics
+### Conference Theme:  Re-Connecting Global Trade and Logistics
 
-### **Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**
+#### **Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**
 
 In an era of geopolitical fragmentation, climate pressure, and digital acceleration, global connectivity is no longer expanding unconditionally. Instead, it is being selectively re-designed, governed, and constrained. 
 
@@ -77,7 +77,7 @@ The GRN-BRI 2026 conference frames **"connectivity"** as the central organizing 
 We invite researchers and practitioners to discuss how these forces govern and sustain the next generation of global supply chains.
 
 
-## Conference Streams
+### Conference Streams
 
 The conference invites submissions across several key research streams, including but not limited to:<br>
 
@@ -124,8 +124,8 @@ The conference invites submissions across several key research streams, includin
 -	Just transition in logistics workforcey
 -	Community engagement in infrastructure projects
  
-
-
+<br>
+<br>
  
 The Conference Organizer is pleased to announce that the papers presented at the conference and selected by the Academic Committee will be recommended for submission to the following international journals. Each journal will conduct a rigorous review process for possible publication. 
 
