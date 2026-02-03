@@ -11,8 +11,8 @@ permalink: /organization/
 
 ## GRN-BRI Executive Committee
 
-The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the following executive members:<br>
-
+The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the following executive members:
+<br>
 **Chairperson**<br>
 Prof. Prem Chhetri, RMIT University, Australia<br>
 **Secretary General**<br>
@@ -21,16 +21,14 @@ Prof. Paul Tae-Woo Lee, Zhejiang University, China<br>
 Prof. Zhong Zhen Yang, Ningbo University, China<br>
 <br>
 <br>
+## The 11th GRN-BRI 2026 Organizing Team
 
-## The 11th GRN-BRI 2026 Organizing Team <br>
-The 2026 conference is hosted and organized by **the College of Business and Economics, Jeonbuk National University**.
+The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
 
-**General Chair**
-<br>
+**General Chair**<br>
 Prof. Kyoung-Suk Choi, Associate Professor and Dean, College of Business and Economics, Jeonbuk National University, Jeonju, Korea
-<br>
-<br>
-**International Program Committee** <br>
+
+**International Program Committee**<br>
 <mark>(To be added)</mark>
 <br>
 <br>
@@ -47,11 +45,14 @@ Zhipeng Wang (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
 Dechang Tian (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
 <mark>(To be added)</mark>
 
+
 **Organizers & Sponsors**
 <br>
 Jeonbuk National University, Jeonju City, Korea<br>
 <mark>(To be added)</mark>
-<br>
+
+
+
 
 
  
