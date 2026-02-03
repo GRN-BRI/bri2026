@@ -9,9 +9,9 @@ permalink: /cfp
 # call for paper
 
 **Theme:** The conference will be based on the primary theme of “**Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**”.
-
-**In the following tracks, but are not limited to:**
 <br>
+
+**The conference invites submissions across several key research streams, including but not limited to:**
 <br>
 <br>
 **Policy & Institutional Connectivity**<br>
@@ -20,7 +20,6 @@ permalink: /cfp
 -	Digital trade rules, data governance, AI regulation
 -	Regional trade agreements and institutional frameworks
 -	Policy responses to supply chain disruptions
-
 
 **Infrastructure & Physical Connectivity**<br>
 
