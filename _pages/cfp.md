@@ -57,7 +57,7 @@ permalink: /cfp
 -	Community engagement in infrastructure projects
 
 
-**Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as <mark>Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.<mark>**
+**Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.**
 
 
 ### Template：
@@ -66,9 +66,9 @@ permalink: /cfp
 
 
 ### Conference Key Dates：
-1. <mark>Abstract submission deadline: **November 5, 2026.**<mark>
-2. <mark>Registration deadline: **November 20, 2026.**<mark>
-3. <mark>Full paper submission deadline: **November 25, 2026.**<mark>
+1. Abstract submission deadline: **0000, 2026.**
+2. Registration deadline: **0000, 2026.**
+3. Full paper submission deadline: **0000, 2026.**
 4. Conference dates: **November 26–28, 2026.**
 
 
