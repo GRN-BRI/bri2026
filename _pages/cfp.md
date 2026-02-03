@@ -8,40 +8,54 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** The conference will be based on the primary theme of <mark>“Navigating the Sustainable Global Economic Paradigm Shift: Digitalization, AI-Driven Innovation, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order”<mark>
+**Theme:** The conference will be based on the primary theme of “**Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**”.
 
 **In the following tracks, but are not limited to:**
+<br>
+<br>
+<br>
+**Policy & Institutional Connectivity**<br>
+- Trade policy coordination under geopolitical uncertainty
+-	Regulatory alignment and divergence
+-	Digital trade rules, data governance, AI regulation
+-	Regional trade agreements and institutional frameworks
+-	Policy responses to supply chain disruptions
 
-**Digital Transformation, AI, and Intelligent Systems**<br>
-Focuses on the technological drivers reshaping the industry, including AI, data, and digital infrastructure.
 
--	Digitalization and Smart Logistics Ecosystems
--	AI-Driven Optimization in Global Trade Networks
--	Blockchain for Traceability, Transparency, and Trust
--	Data Analytics for Risk Management and Decision Making
--	Digital Twins and Cyber-Physical Systems in Supply Chains
--	Machine Learning Applications in Freight Transport
--	Digital Platforms and Supply Chain Finance
--	Human-Centric Digital Transformation (Industry 5.0)
+**Infrastructure & Physical Connectivity**<br>
 
-**Sustainability, Decarbonization, and ESG Management**<br>
-Focuses on environmental goals, ethical responsibilities, and the transition to a net-zero economy.
+- Smart ports, smart corridors, autonomous transport
+-	Multimodal logistics networks and resilience
+-	Climate-resilient infrastructure
+-	Digital twins for transport systems
+-	Port efficiency and terminal operations
+-	Sustainable maritime and land transport systems
 
-- ESG Integration and Sustainable Corporate Strategy
--	Decarbonization Pathways in Maritime, Air, and Land Transport
--	Green Logistics and Circular Economy Models
--	Ethical Sourcing and Social Responsibility (ESG)
--	Climate Resilience and Adaptation in Logistics Networks
--	Renewable Energy Adoption in Transportation
+**Trade & Supply Chain Connectivity**<br>
 
-**Global Trade, Resilience, and Smart Infrastructure**<br>
-Focuses on the macro-economic context, physical infrastructure, and operational resilience in the new trade era.
--	Global Supply Chain Resilience in the New Trade Order
--	Smart Ports and Autonomous Shipping Technologies
--	Sustainable Multimodal Transportation Networks
--	Cross-Border E-Commerce and Digital Trade Infrastructure
--	Innovation in Urban Logistics and Last-Mile Delivery
--	Global Trade Policy and Regulatory Compliance
+-	Supply chain fragmentation vs re-integration
+-	Trade facilitation, customs digitalization
+-	Cross-border e-commerce and logistics platforms
+-	Risk, delay, congestion, and connectivity loss
+-	AIS data analytics and maritime supply chain visibility
+-	Global shipping network dynamics and resilience
+
+**Financial & Digital Connectivity**<br>
+-	Supply chain finance and digital platforms
+-	Blockchain, traceability, and trust
+-	Investment flows under ESG constraints
+-	Infrastructure finance and green finance
+-	Digital payment systems and financial integration
+-	Carbon pricing and emissions trading mechanisms
+
+
+**Human & Sustainable Connectivity**<br>
+-	ESG, labor standards, and social sustainability
+-	Human-centric digital transformation (Industry 5.0)
+-	Skills, institutions, and capacity building
+-	Social acceptance of infrastructure and technology
+-	Just transition in logistics workforcey
+-	Community engagement in infrastructure projects
 
 
 **Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as <mark>Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.<mark>**
