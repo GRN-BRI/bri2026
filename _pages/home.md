@@ -14,8 +14,8 @@ international trade, and supply chain [https://grn-bri.github.io/](https://grn-b
 is one of the serial international conferences, industry seminars, and training workshops that disseminate the latest
 research and strategic insights to enhance policy-making and support economic development.
 
-The GRN-BRI 2026 will be held at **Jeonbuk National University** in Jeonju City, Republic of Korea on **November 26–28, 2026**.
-
+The GRN-BRI 2026 will be held at **Jeonbuk National University** in Jeonju City, Republic of Korea on **November 26–28, 2026**.<br>
+Known for its beautiful traditional architecture, the university is widely considered the most "Korean-style" campus in the country. It offers a unique setting that combines a modern research environment with Korea's rich cultural heritage.
    
 
 
