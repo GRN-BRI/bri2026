@@ -66,64 +66,34 @@ Known for its beautiful traditional architecture, the university is widely consi
 
 <br>
 
-### Conference Theme:  Re-Connecting Global Trade and Logistics
+### Conference Theme:  Sustainable Global Economic Paradigm Shift and the New Trade Order: Global Supply Chains, Trade, Transportation and Logistics, Digitalization, Decarbonization, and ESG
 
-#### **Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**
 
-In an era of geopolitical fragmentation, climate pressure, and digital acceleration, global connectivity is no longer expanding unconditionally. Instead, it is being selectively re-designed, governed, and constrained. 
-
-The GRN-BRI 2026 conference frames **"connectivity"** as the central organizing concept, exploring how digitalization, Artificial Intelligence (AI), and Environmental, Social, and Governance (ESG) criteria act as powerful mechanisms that reshape global connectivity. This multi-dimensional approach encompasses policy, infrastructure, trade, finance, and people—reflecting both the foundational principles of the Belt and Road Initiative and the evolving realities of the new international trade order.
+The global economy is currently undergoing a profound transformation, marked by a paradigm shift and the emergence of a new trade order amid growing uncertainty. This uncertainty is driven by deglobalization, accelerated digital ransformation, rising protectionism, heightened geopolitical tensions, and the increasing urgency of climate change. 
+Against this backdrop, the conference aims to provide an interdisciplinary platform for in depth academic discussions on global supply chains and international trade, transportation and logistics systems and networks, technological change, carbon neutrality, and ESG management. Particular attention is given to how sustainability objectives and digital transformation are reshaping the structures and governance of the new trade order. 
 
 We invite researchers and practitioners to discuss how these forces govern and sustain the next generation of global supply chains.
-
 
 ### Conference Streams
 
 The conference invites submissions across several key research streams, including but not limited to:<br>
 
-**1. Policy & Institutional Connectivity**<br>
-- Trade policy coordination under geopolitical uncertainty
--	Regulatory alignment and divergence
--	Digital trade rules, data governance, AI regulation
--	Regional trade agreements and institutional frameworks
--	Policy responses to supply chain disruptions
+**1. Transportation and logistics systems and networks**<br>
 
+**2. Global supply chains, international trade, and trade facilitation**<br>
 
-**2. Infrastructure & Physical Connectivity**<br>
+**3. The interaction between logistics and the economy, including maritime and air 
+transport, ports and airports, and intermodal transportation**<br>
 
-- Smart ports, smart corridors, autonomous transport
--	Multimodal logistics networks and resilience
--	Climate-resilient infrastructure
--	Digital twins for transport systems
--	Port efficiency and terminal operations
--	Sustainable maritime and land transport systems
+**4. Policies, regulations, and institutional frameworks related to trade, transport, and 
+logistics**<br>
 
-**3. Trade & Supply Chain Connectivity**<br>
+**5. Digital transformation and Fourth Industrial Revolution technologies in 
+transportation and logistics**<br>
 
--	Supply chain fragmentation vs re-integration
--	Trade facilitation, customs digitalization
--	Cross-border e-commerce and logistics platforms
--	Risk, delay, congestion, and connectivity loss
--	AIS data analytics and maritime supply chain visibility
--	Global shipping network dynamics and resilience
+**6. Decarbonization strategies and green logistics systems**<br>
 
-**4. Financial & Digital Connectivity**<br>
--	Supply chain finance and digital platforms
--	Blockchain, traceability, and trust
--	Investment flows under ESG constraints
--	Infrastructure finance and green finance
--	Digital payment systems and financial integration
--	Carbon pricing and emissions trading mechanisms
-
-
-**5. Human & Sustainable Connectivity**<br>
--	ESG, labor standards, and social sustainability
--	Human-centric digital transformation (Industry 5.0)
--	Skills, institutions, and capacity building
--	Social acceptance of infrastructure and technology
--	Just transition in logistics workforcey
--	Community engagement in infrastructure projects
- 
+**7. ESG, corporate sustainability, and environmental governance**<br>
 <br>
 <br>
  
