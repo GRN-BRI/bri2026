@@ -8,53 +8,32 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** The conference will be based on the primary theme of “**Digitalization, AI, and ESG Strategies in Global Supply Chains, Trade, and Logistics under the New Trade Order**”.
+**Theme:** The conference will be based on the primary theme of “**Sustainable Global Economic Paradigm Shift and the New Trade Order: Global Supply Chains, Trade, Transportation and Logistics, Digitalization, Decarbonization, and ESG**”.
 <br>
 
 **The conference invites submissions across several key research streams, including but not limited to:**
 <br>
 <br>
-**Policy & Institutional Connectivity**<br>
-- Trade policy coordination under geopolitical uncertainty
--	Regulatory alignment and divergence
--	Digital trade rules, data governance, AI regulation
--	Regional trade agreements and institutional frameworks
--	Policy responses to supply chain disruptions
+### Conference Streams
 
-**Infrastructure & Physical Connectivity**<br>
+The conference invites submissions across several key research streams, including but not limited to:<br>
 
-- Smart ports, smart corridors, autonomous transport
--	Multimodal logistics networks and resilience
--	Climate-resilient infrastructure
--	Digital twins for transport systems
--	Port efficiency and terminal operations
--	Sustainable maritime and land transport systems
+**1. Transportation and logistics systems and networks**<br>
 
-**Trade & Supply Chain Connectivity**<br>
+**2. Global supply chains, international trade, and trade facilitation**<br>
 
--	Supply chain fragmentation vs re-integration
--	Trade facilitation, customs digitalization
--	Cross-border e-commerce and logistics platforms
--	Risk, delay, congestion, and connectivity loss
--	AIS data analytics and maritime supply chain visibility
--	Global shipping network dynamics and resilience
+**3. The interaction between logistics and the economy, including maritime and air 
+transport, ports and airports, and intermodal transportation**<br>
 
-**Financial & Digital Connectivity**<br>
--	Supply chain finance and digital platforms
--	Blockchain, traceability, and trust
--	Investment flows under ESG constraints
--	Infrastructure finance and green finance
--	Digital payment systems and financial integration
--	Carbon pricing and emissions trading mechanisms
+**4. Policies, regulations, and institutional frameworks related to trade, transport, and 
+logistics**<br>
 
+**5. Digital transformation and Fourth Industrial Revolution technologies in 
+transportation and logistics**<br>
 
-**Human & Sustainable Connectivity**<br>
--	ESG, labor standards, and social sustainability
--	Human-centric digital transformation (Industry 5.0)
--	Skills, institutions, and capacity building
--	Social acceptance of infrastructure and technology
--	Just transition in logistics workforcey
--	Community engagement in infrastructure projects
+**6. Decarbonization strategies and green logistics systems**<br>
+
+**7. ESG, corporate sustainability, and environmental governance**<br>
 
 
 **Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.**
