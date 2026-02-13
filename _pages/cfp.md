@@ -45,9 +45,9 @@ transportation and logistics**<br>
 
 
 ### Conference Key Dates：
-1. Abstract submission deadline: **0000, 2026.**
-2. Registration deadline: **0000, 2026.**
-3. Full paper submission deadline: **0000, 2026.**
+1. Abstract submission deadline: **Mid-May, 2026.**
+2. Registration deadline: **Mid-October, 2026.**
+3. Full paper submission deadline: **Mid-May, 2026.**
 4. Conference dates: **November 26–28, 2026.**
 
 
