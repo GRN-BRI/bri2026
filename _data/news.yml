@@ -9,11 +9,11 @@
   headline: "
     <ul style='padding-left: 20px; margin: 0; list-style-type: disc;'>
       <li style='margin-bottom: 8px;'>
-        <strong>Abstract Submission</strong>: 2026.00.00
+        <strong>Abstract Submission</strong>: Mid-May，2026
         <a href='/bri2026/downloads/Abstract%20Template_JBNU.docx' target='_blank' style='margin-left: 10px; text-decoration: underline; color: #0056b3;'>[Download Abstract Template]</a>
       </li>
       <li>
-        <strong>Full paper Submission</strong>: 2026.00.00
+        <strong>Full paper Submission</strong>: Mid-May，2026
         <a href='/bri2026/downloads/Full%20Paper%20Template_JBNU.docx' target='_blank' style='margin-left: 10px; text-decoration: underline; color: #0056b3;'>[Download Full Paper Template]</a>
       </li>
     </ul>"
@@ -21,6 +21,5 @@
 - date: <strong>Registration</strong>
   headline: "
     <ul style='padding-left: 20px; margin: 0; list-style-type: disc; font-style: normal;'>
-      <li style='margin-bottom: 5px;'><strong>Early Bird Registration</strong>: 2026.00.00</li>
-      <li><strong>Regular Registration</strong>: 2026.00.00</li>
+            <li><strong>Regular Registration</strong>: 2026.00.00</li>
     </ul>"
