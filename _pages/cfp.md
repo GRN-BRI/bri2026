@@ -8,12 +8,14 @@ permalink: /cfp
 
 # call for paper
 
-**Theme:** The conference will be based on the primary theme of “**Sustainable Global Economic Paradigm Shift and the New Trade Order: Global Supply Chains, Trade, Transportation and Logistics, Digitalization, Decarbonization, and ESG**”.
+**Theme:** The conference will be based on the primary theme of **Sustainable Global Economic Paradigm Shift and the New Trade Order:**
+- Global Supply Chains
+- Trade, Transportation and Logistics
+- Digitalization
+- Decarbonization
+- ESG
 <br>
 
-**The conference invites submissions across several key research streams, including but not limited to:**
-<br>
-<br>
 ### Conference Streams
 
 The conference invites submissions across several key research streams, including but not limited to:<br>
@@ -36,7 +38,8 @@ transportation and logistics**<br>
 **7. ESG, corporate sustainability, and environmental governance**<br>
 
 
-**Publication Note: The papers presented and selected at the conference will be reviewed by the conference academic committee and recommended for possible publication in international journals, such as Transportation Research Part E: Logistics and Transportation Review, Transport Policy, Technological Forecasting and Social Change, International Journal of Production Economics, and Sustainability after a rigorous review process.**
+Publication Note:<br>
+Opportunities for journal recommendation are exclusively available to authors who submit a **full paper**. Following a rigorous evaluation by the conference academic committee, selected full papers will be recommended for possible publication in international journals, including Transportation Research Part A, Transport Policy, Journal of Shipping and Trade, International Journal of Logistics Research and Applications, and The International Journal of Logistics Management.
 
 
 ### Template：
@@ -45,10 +48,9 @@ transportation and logistics**<br>
 
 
 ### Conference Key Dates：
-1. Abstract submission deadline: **Mid-May, 2026.**
-2. Registration deadline: **Mid-October, 2026.**
-3. Full paper submission deadline: **Mid-May, 2026.**
-4. Conference dates: **November 26–28, 2026.**
+1. Abstract and full paper submission deadline: **Mid 16, 2026.**
+2. Registration deadline: **October 16, 2026.**
+3. Conference dates: **November 26–28, 2026.**
 
 
 
