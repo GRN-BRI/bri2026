@@ -26,15 +26,15 @@ Step 2: Jeonju Intercity Bus Terminal → Venue
  
 #### Option B: Via Jeonju Limousine Bus Terminal(Alternative bus route)
 Step 1: Incheon Airport → Jeonju Limousine Bus Terminal
- - Mode: Limousine Bus (Daehan Limousine)
+ - Mode: Limousine Bus
  - Travel Time: Approx. 3.5 – 4 hours
  - Fare: Approx. KRW 33,000 – 34,000
  - Ticket Purchase:Online or On-site at the Airport.
 
 Step 2: Jeonju Limousine Bus Terminal → Venue
- - Mode: TaxiTravel
+ - Mode: Taxi
  - Time: Approx. 20 minutes (7 km)
- - Fare: Approx. KRW 10,000
+ - Fare: Approx. KRW 11,000
 <br>
 
 #### Option C: Via KTX Train (High-Speed Train) (Recommended if you prefer trains or plan to stop by Seoul).
@@ -47,19 +47,19 @@ Step 1: Incheon Airport → Seoul Station
 Step 2: Seoul Station → Jeonju Station
  - Mode: KTX 
  - Travel Time: Approx. 1 hour 40 minutes
- - Fare: Approx. KRW 34,600 (Economy Class)
+ - Fare: Approx. KRW 34,600
  - Ticket Purchase:Online or On-site at the station.
 
 Step 3: Jeonju Station → Venue
  - Mode: Taxi
- - Travel Time: Approx. 10 – 15 minutes (4 km)
+ - Travel Time: Approx. 15 minutes (4 km)
  - Fare: Approx. KRW 6,000
 
 <br>
 
 
 ## Arrival at Gimpo International Airport (GMP)
-#### Option A: Via Jeonju Limousine Bus Terminal(Most convenient route from Gimpo)
+#### Option A: Via Jeonju Limousine Bus Terminal(Most convenient route)
 Step 1: Gimpo Airport → Jeonju Limousine Bus Terminal
  - Mode: Limousine Bus
  - Travel Time: Approx. 3.5 hours
@@ -69,10 +69,10 @@ Step 1: Gimpo Airport → Jeonju Limousine Bus Terminal
 Step 2: Jeonju Limousine Bus Terminal → Venue
  - Mode: Taxi
  - Travel Time: Approx. 20 minutes (7 km)
- - Fare: Approx. KRW 10,000
+ - Fare: Approx. KRW 11,000
 <br>
 
-#### Option B: Via KTX Train (High-Speed Train) (Seoul Station)
+#### Option B: Via KTX Train (High-Speed Train)
 Step 1: Gimpo Airport → Seoul Station
  - Mode: AREX (Airport Railroad)
  - Direction: Bound for Seoul Station.
@@ -86,8 +86,8 @@ Step 2: Seoul Station → Jeonju Station
  - Ticket Purchase: Online or On-site at the station.
 
 Step 3: Jeonju Station → Venue
- - Mode: TaxiTravel
- - Time: Approx. 10 – 15 minutes.
+ - Mode: Taxi
+ - Time: Approx. 15 minutes (4 km).
  - Fare: Approx. KRW 7,000.
 
 
