@@ -26,16 +26,16 @@ Prof. Zhong Zhen Yang, Ningbo University, China<br>
 The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
 
 **General Chair**<br>
-Prof. Kyoung-Suk Choi, Associate Professor and Dean, College of Business and Economics, Jeonbuk National University, Jeonju, Korea
+Prof. Kyoung-Suk Choi, Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
 
 **International Program Committee**<br>
 <mark>(To be added)</mark>
 <br>
 <br>
 **Local Organizing Committee**<br>
-Prof. Bangwool Han, Jeonbuk National University, Jeonju, Korea <br>
 Prof. Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
-Prof. Hanbyul Choi, Jeonbuk National University, Jeonju, Korea
+Prof. Hanbyul Choi, Jeonbuk National University, Jeonju, Korea<br>
+Prof. Ahhyun Jo, Jeonbuk National University, Jeonju, Korea 
 <br>
 <br>
 **Conference Secretariat**<br>
