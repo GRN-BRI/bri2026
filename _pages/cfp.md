@@ -48,7 +48,7 @@ Opportunities for journal recommendation are exclusively available to authors wh
 
 
 ### Conference Key Dates：
-1. Abstract and full paper submission deadline: **Mid 16, 2026.**
+1. Abstract and full paper submission deadline: **May 16, 2026.**
 2. Registration deadline: **October 16, 2026.**
 3. Conference dates: **November 26–28, 2026.**
 
