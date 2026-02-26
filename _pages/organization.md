@@ -29,27 +29,29 @@ The 2026 conference is hosted and organized by the College of Business and Econo
 Prof. Kyoung-Suk Choi, Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
 
 **International Program Committee**<br>
-<mark>(To be added)</mark>
+
 <br>
 <br>
+
 **Local Organizing Committee**<br>
 Prof. Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
 Prof. Hanbyul Choi, Jeonbuk National University, Jeonju, Korea<br>
 Prof. Ahhyun Jo, Jeonbuk National University, Jeonju, Korea 
 <br>
 <br>
+
 **Conference Secretariat**<br>
 Xia Wu (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
 Xiaoxuan Xie (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
 Zhipeng Wang (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
 Dechang Tian (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
-<mark>(To be added)</mark>
+
 
 
 **Organizers & Sponsors**
 <br>
 Jeonbuk National University, Jeonju City, Korea<br>
-<mark>(To be added)</mark>
+
 
 
 
