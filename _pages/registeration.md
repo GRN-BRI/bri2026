@@ -32,7 +32,7 @@ To participate in the conference, registration must be completed through on-site
 | :--- | :--- |
 | **First day** | Registration/Opening Ceremony/Keynote Speeches |
 | **Second day** | Parallel Session |
-| **Third day** | Parallel Session / Field Visit |
+| **Third day** | Parallel Session / Field Trip |
 {: .table .table-bordered}
  
 
