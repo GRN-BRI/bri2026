@@ -82,13 +82,9 @@ We invite researchers and practitioners to discuss how these forces govern and s
 <br>
 <br>
  
-The Conference Organizer is pleased to announce that the papers presented at the conference and selected by the Academic Committee will be recommended for submission to the following international journals. Each journal will conduct a rigorous review process for possible publication. 
+The Conference Organizer is pleased to announce that the papers presented at the conference and selected by the Academic Committee will be recommended for submission to distinguished international journals, which are to be announced very soon.
 
-1. **The International Journal of Logistics Management (IJLM)** [journal link](https://www.emeraldgrouppublishing.com/journal/ijlm)
-2. **Transport Policy (TP)** [journal link](https://www.sciencedirect.com/journal/transport-policy)
-3. **International Journal of Logistics Research and Applications (IJLRA)** [journal link](https://www.tandfonline.com/journals/cjol20)
-4. **Transportation Research Part A (TRA)** [journal link](https://www.sciencedirect.com/journal/transportation-research-part-a-policy-and-practice)
-5. **Journal of Shipping and Trade （JST)** [journal link](https://link.springer.com/journal/41072)
+ 
  
 
 
