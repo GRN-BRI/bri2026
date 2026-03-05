@@ -63,8 +63,9 @@ Prof. Ahhyun Jo, Jeonbuk National University, Jeonju, Korea
 
 **Conference Secretariat**<br>
 Xia Wu (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
-Xiaoxuan Xie (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
-Zhipeng Wang (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
+Xiaoxuan Xie (Ph.D),  Jeonbuk National University, Jeonju, Korea <br>
+Chunteng Yang (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
+Zhipeng Wang (Master),  Jeonbuk National University, Jeonju, Korea <br>
 Dechang Tian (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
 
 
