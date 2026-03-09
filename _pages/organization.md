@@ -38,11 +38,11 @@ Gang Dong, Shanghai Maritime University, China<br>
 Dragovic, Branislav, Professor, University of Montenegro, Montenegro<br>
 Lam, Jasmine Siu Lee, Professor, Technical University of Denmark, Denmark<br>
 Suthiwartnarueput, Kamonchanok, Professor, Chulalongkorn University, Thailand<br>
-Tezuka, Koichiro, Nihon University, Japan (To be confirmed)<br>
+Tezuka, Koichiro, Nihon University, Japan <br>
 Wilmsmeier, Gordon, Professor, University of Colombia, Colombia<br>
 Ran Yan, Nanyang Technology University, Singapore<br>
 Gammelgaard, Britta, Professor, University of Southern Denmark, Denmark<br>
-Ishii, M., Professor, Sophia University, Japan (to be confirmed)<br>
+Ishii, M., Professor, Sophia University, Japan<br>
 Notteboom, Theo, Professor, University of Ghent, Belgium<br>
 Kevin X Li, Zhejiang University, China<br>
 <br>
@@ -55,18 +55,18 @@ The 2026 conference is hosted and organized by the College of Business and Econo
 Prof. Kyoung-Suk Choi, Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
 
 **Local Organizing Committee**<br>
-Prof. Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
-Prof. Hanbyul Choi, Jeonbuk National University, Jeonju, Korea<br>
-Prof. Ahhyun Jo, Jeonbuk National University, Jeonju, Korea 
+Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
+Hanbyul Choi, Jeonbuk National University, Jeonju, Korea<br>
+Ahhyun Jo, Jeonbuk National University, Jeonju, Korea 
 <br>
 <br>
 
 **Conference Secretariat**<br>
-Xia Wu (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
-Xiaoxuan Xie (Ph.D),  Jeonbuk National University, Jeonju, Korea <br>
-Chunteng Yang (Ph.D. Candidate),  Jeonbuk National University, Jeonju, Korea <br>
-Zhipeng Wang (Master),  Jeonbuk National University, Jeonju, Korea <br>
-Dechang Tian (Master Student),  Jeonbuk National University, Jeonju, Korea <br>
+Xia Wu, Jeonbuk National University, Jeonju, Korea <br>
+Xiaoxuan Xie, Jeonbuk National University, Jeonju, Korea <br>
+Chunteng Yang, Jeonbuk National University, Jeonju, Korea <br>
+Zhipeng Wang, Jeonbuk National University, Jeonju, Korea <br>
+Dechang Tian, Jeonbuk National University, Jeonju, Korea <br>
 
 
 
