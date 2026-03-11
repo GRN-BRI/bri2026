@@ -17,7 +17,7 @@ Prof. Prem Chhetri, RMIT University, Australia<br>
 Prof. Lee, Paul Tae-Woo, Zhejiang University, China<br>
 
 **Academic Affairs Leader**<br>
-Prof. Yang，Zhong Zhen , Ningbo University, China<br>
+Prof. Yang, Zhong Zhen , Ningbo University, China<br>
 
 ## International Steering Committee
 
