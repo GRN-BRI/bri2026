@@ -14,59 +14,66 @@ The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the follo
 Prof. Prem Chhetri, RMIT University, Australia<br>
 
 **Secretary General**<br>
-Prof. Paul Tae-Woo Lee, Zhejiang University, China<br>
+Prof. Lee, Paul Tae-Woo, Zhejiang University, China<br>
 
 **Academic Affairs Leader**<br>
-Prof. Zhong Zhen Yang, Ningbo University, China<br>
+Prof. Yang，Zhong Zhen , Ningbo University, China<br>
 
-**Conference Academic Committee**<br>
-Gang Wu, Southwest Jiaotong University, China<br>
-Prem Chhetri, Royal Melbourne Institute of Technology, Australia<br>
-Paul Tae-Woo Lee, Zhejiang University, China<br>
-Zhongzhen Yang, Ningbo University, China<br>
-Adolf K.Y. Ng, Beijing Normal-Hong Kong Baptist University, China<br>
-Jun Yeop Lee, Inha University, Republic of Korea<br>
-Yingen Ge, Chang’an University, China<br>
-Weihua Liu, Tianjin University, China<br>
-Morteza Bagheri, Iran University of Science and Technology, Iran<br>
-Xin Wang, Dalian Maritime University, China<br>
-Chaozhe Jiang, Southwest Jiaotong University, China<br>
-Yanjie Zhou, Zhengzhou University, China<br>
-Zaili Yang, Liverpool John Moores University, United Kingdom<br>
-Xuehao Feng, Zhejiang University, China<br>
-Gang Dong, Shanghai Maritime University, China<br>
-Dragovic, Branislav, Professor, University of Montenegro, Montenegro<br>
-Lam, Jasmine Siu Lee, Professor, Technical University of Denmark, Denmark<br>
-Suthiwartnarueput, Kamonchanok, Professor, Chulalongkorn University, Thailand<br>
-Tezuka, Koichiro, Nihon University, Japan <br>
-Wilmsmeier, Gordon, Professor, University of Colombia, Colombia<br>
-Ran Yan, Nanyang Technology University, Singapore<br>
-Gammelgaard, Britta, Professor, University of Southern Denmark, Denmark<br>
-Ishii, M., Professor, Sophia University, Japan<br>
-Notteboom, Theo, Professor, University of Ghent, Belgium<br>
-Kevin X Li, Zhejiang University, China<br>
-<br>
+## International Steering Committee
+
+Bagheri, Morteza, Iran University of Science and Technology, Iran<br>
+Chen, Jihong, Shenzhen University, China<br>
+Chhetri, Prem, RMIT University, Royal Melbourne Institute of Technology, Australia<br>
+Dong, Gang, Shanghai Maritime University, China<br>
+Dragovic, Branislav, University of Montenegro, Montenegro<br>
+Feng, Xuehao, Zhejiang University, China<br>
+Gammelgaard, Britta, University of Southern Denmark, Denmark<br>
+Ge, Yingen, Chang'an University, China<br>
+Ishii, Masahiro, Sophia University, Japan<br>
+Jiang, Chaozhe, Southwest Jiaotong University, China<br>
+Lam, Jasmine Siu Lee, Technical University of Denmark, Denmark<br>
+Lee, Jun Yeop, Inha University, Republic of Korea<br>
+Lee, Paul Tae-Woo, Zhejiang University, China<br>
+Lim, K. Ming, Univerity of Glasgow, United Kingdom<br>
+Liu, Weihua, Tianjin University, China<br>
+Mokkhamakkul, Tartat, Chulalongkorn University, Thailand<br>
+Ng, Adolf K.Y., Beijing Normal-Hong Kong Baptist University, China<br>
+Notteboom, Theo, University of Ghent, Belgium<br>
+Shu, Yaqing, Ningbo University, China<br>
+Suthiwartnarueput, Kamonchanok, Chulalongkorn University, Thailand<br>
+Tezuka, Koichiro, Nihon University, Japan<br>
+Wang, Xin, Dalian Maritime University, China<br>
+Wilmsmeier, Gordon, University of Colombia, Colombia<br>
+Wu, Gang, Southwest Jiaotong University, China<br>
+Yan, Ran, Nanyang Technology University, Singapore<br>
+Yang, Zaili, Liverpool John Moores University, United Kingdom<br>
+Yang, Zhong Zhen, Ningbo University, China<br>
+Zhang, Di, Wuhan University of Technology, China<br>
+Zheng, Shiyuan, Shanghai Maritime University, China<br>
+Zhong, Ming, Wuhan University of Technology, China<br>
+Zhou, Yanjie, Zhengzhou University, China<br>
+
 
 ## The 11th GRN-BRI 2026 Organizing Team
 
 The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
 
 **General Chair**<br>
-Prof. Kyoung-Suk Choi, Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
+Prof. Choi, Kyoung-Suk , Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
 
 **Local Organizing Committee**<br>
-Yoon Lee, Jeonbuk National University, Jeonju, Korea <br>
-Hanbyul Choi, Jeonbuk National University, Jeonju, Korea<br>
-Ahhyun Jo, Jeonbuk National University, Jeonju, Korea 
+Lee, Yoon, Jeonbuk National University, Jeonju, Korea <br>
+Choi, Hanbyul, Jeonbuk National University, Jeonju, Korea<br>
+Jo, Ahhyun, Jeonbuk National University, Jeonju, Korea 
 <br>
 <br>
 
 **Conference Secretariat**<br>
-Xia Wu, Jeonbuk National University, Jeonju, Korea <br>
-Xiaoxuan Xie, Jeonbuk National University, Jeonju, Korea <br>
-Chunteng Yang, Jeonbuk National University, Jeonju, Korea <br>
-Zhipeng Wang, Jeonbuk National University, Jeonju, Korea <br>
-Dechang Tian, Jeonbuk National University, Jeonju, Korea <br>
+Tian, Dechang, Jeonbuk National University, Jeonju, Korea <br>
+Wang, Zhipeng, Jeonbuk National University, Jeonju, Korea <br>
+Wu, Xia, Jeonbuk National University, Jeonju, Korea <br>
+Xie, Xiaoxuan, Jeonbuk National University, Jeonju, Korea <br>
+Yang, Chunteng, Jeonbuk National University, Jeonju, Korea <br>
 
 
 
