@@ -20,37 +20,31 @@ File: PDF or DOCX (use official templates)
 ## 3. Thematic Tracks (select one)
 
 T1. Transportation & Logistics Systems and Networks
-
 T2. Global Supply Chains, International Trade, and Trade Facilitation
-
 T3. Maritime, Air Transport, Ports, and Intermodal Transportation
-
 T4. Trade/Transport/Logistics Policy and Regulation
-
 T5. Digital Transformation and 4IR Technologies
-
 T6. Decarbonization & Green Logistics
-
 T7. ESG, Corporate Sustainability, and Environmental Governance
 
- ## 4. How to Submit
+## 4. How to Submit
 
 Send the following two files in ONE e-mail:
-- Submission Cover Sheet (DOCX) [Download Cover Sheet Template]
-- Manuscript (PDF or DOCX)  [Download Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx) [Download Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)<br>
+- Submission Cover Sheet (DOCX)   [Download Cover Sheet Template](/bri2026/downloads/GRN-BRI2026_Submission_Cover_Sheet.docx)
+- Manuscript (PDF or DOCX)   [Download Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx) ， [Download Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)<br>
 
 To: ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
 
 Subject line format: [GRN-BRI2026][Track T#] Paper Title — Corresponding Author 
 Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supply Chain Resilience — Ah-Hyun Jo
 
- ## 5. Cover Sheet Required Fields
-  ① Paper Title
-  ② Submission Type (Abstract / Full Paper)
-  ③ Thematic Track (T1–T7)
-  ④ Corresponding Author (Name, Affiliation, E-mail)
-  ⑤ Co-Authors (Name, Affiliation, E-mail)
-  ⑥ Keywords (3–5)
+## 5. Cover Sheet Required Fields
+① Paper Title<br>
+② Submission Type (Abstract / Full Paper)<br>
+③ Thematic Track (T1–T7)<br>
+④ Corresponding Author (Name, Affiliation, E-mail)<br>
+⑤ Co-Authors (Name, Affiliation, E-mail)<br>
+⑥ Keywords (3–5)<br>
 
 ## 6. Contact for Submissions
 Prof. Ah-Hyun Jo (Program Chair) — ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
