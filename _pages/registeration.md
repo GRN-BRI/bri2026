@@ -30,9 +30,9 @@ To participate in the conference, registration must be completed through on-site
 
 | Dates | Activity |
 | :--- | :--- |
-| **First day** | Registration/Opening Ceremony/Keynote Speeches |
-| **Second day** | Parallel Session |
-| **Third day** | Parallel Session / Field Trip |
+| **Day 1(Nov 26, 2026)** |  Registration · Opening Ceremony · Keynote Speeches · Parallel Sessions |
+| **Day 2 (Nov 27, 2026)** | Parallel Sessions · Conference Gala Dinner |
+| **Day 3 (Nov 28, 2026)** | Parallel Sessions · Research Network Session |
 {: .table .table-bordered}
  
 
