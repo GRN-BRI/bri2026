@@ -13,9 +13,9 @@ permalink: /submission
 - Close: July 30, 2026 (23:59 KST)
 
 ## 2. Submission Types
-Extended Abstract: 500–800 words (English)
-Full Paper: 5,000–7,000 words (English)
-File: PDF or DOCX (use official templates)
+Extended Abstract: 500–800 words (English)<br>
+Full Paper: 5,000–7,000 words (English)<br>
+File: PDF or DOCX (use official templates)<br>
 
 ## 3. Thematic Tracks (select one)
 T1. Transportation & Logistics Systems and Networks<br>
