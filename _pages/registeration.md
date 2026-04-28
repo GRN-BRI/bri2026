@@ -1,9 +1,9 @@
 ---
-title: "GRN-BRI - Registeration"
+title: "GRN-BRI - Registration"
 layout: textlay
-excerpt: "GRN-BRI registeration"
+excerpt: "GRN-BRI registration"
 sitemap: false
-permalink: /registeration
+permalink: /registration
 ---
 
 
