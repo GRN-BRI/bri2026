@@ -9,11 +9,14 @@
   headline: "
     <ul style='padding-left: 20px; margin: 0; list-style-type: disc;'>
       <li style='margin-bottom: 8px;'>
-        <strong>Abstract Submission</strong>: May 16，2026
+        <strong>Call for Papers Open</strong>: May 1, 2026
+      </li>
+      <li style='margin-bottom: 8px;'>
+        <strong>Abstract Submission Deadline</strong>: July 30, 2026
         <a href='/bri2026/downloads/Abstract%20Template_JBNU.docx' target='_blank' style='margin-left: 10px; text-decoration: underline; color: #0056b3;'>[Download Abstract Template]</a>
       </li>
       <li>
-        <strong>Full paper Submission</strong>: May 16，2026
+        <strong>Full Paper Submission Deadline</strong>: July 30, 2026
         <a href='/bri2026/downloads/Full%20Paper%20Template_JBNU.docx' target='_blank' style='margin-left: 10px; text-decoration: underline; color: #0056b3;'>[Download Full Paper Template]</a>
       </li>
     </ul>"
