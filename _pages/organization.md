@@ -8,8 +8,8 @@ permalink: /organization/
 
 ## GRN-BRI Executive Committee
 
-The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the following executive members:
-<br>
+The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the following executive members:<br>
+
 **Chairperson**<br>
 Prof. Prem Chhetri, RMIT University, Australia<br>
 
@@ -60,13 +60,12 @@ Zhou, Yanjie, Zhengzhou University, China<br>
 The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
 
 **General Chair**<br>
-Prof. Choi, Kyoung-Suk , Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea<br>
-**General Chair**<br>
-Prof. Jo，Ah-Hyun , Department of International Trade, Jeonbuk National University, Jeonju, Korea<br>
-**Local Organizing Committee**<br>
-Lee, Yoon, Jeonbuk National University, Jeonju, Korea <br>
-<br>
+Prof. Choi, Kyoung-Suk , Dean, College of Business and Economics, Jeonbuk National University, Korea<br>
+**Program Chair**<br>
+Prof. Jo, Ah-Hyun , Department of International Trade, Jeonbuk National University, Korea<br>
 
+**Local Organizing Committee**<br>
+Lee, Yoon, Jeonbuk National University, Korea <br>
 **Conference Secretariat**<br>
 Wu, Xia, Jeonbuk National University, Jeonju, Korea <br>
 Yang, Chunteng, Jeonbuk National University, Jeonju, Korea <br>
@@ -76,7 +75,7 @@ Pan，Menglan, Jeonbuk National University, Jeonju, Korea <br>
 
 
 **Organizers**<br>
-College of Business and Economics, Jeonbuk National University, Jeonju, Korea<br>
+College of Business and Economics, Jeonbuk National University <br>
 
 **Co-Hosts / Sponsors**<br>
 Research Institute of Industry and Economy, Jeonbuk National University (전북대학교 경상대학 산업경제연구소)<br>
