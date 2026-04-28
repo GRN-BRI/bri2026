@@ -8,11 +8,8 @@ permalink: /visa
 
 # Visa
 
-If you need a visa to enter the Republic of Korea, we can issue an official **Invitation Letter** to support your application.<br>
-Please send your request to: lxygwqf123456@gmail.com
-
-
-
+If you need a visa to enter the Republic of Korea, we can issue an official **Invitation Letter** to support your application,<br>
+please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
 
 
 [//]: # ()
