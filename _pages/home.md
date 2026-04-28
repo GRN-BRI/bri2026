@@ -79,10 +79,10 @@ Against this backdrop, the conference aims to provide an interdisciplinary platf
 
 We invite researchers and practitioners to discuss how these forces govern and sustain the next generation of global supply chains.
 
-<br>
-<br>
  
-The Conference Organizer is pleased to announce that the papers presented at the conference and selected by the Academic Committee will be recommended for submission to distinguished international journals, which are to be announced very soon.
+The Conference Organizer is pleased to announce that the papers presented at the conference and selected by the Academic Committee will be recommended for submission to the following partner journals: The International Journal of Logistics Management， Ocean & Coastal Management, Transportation Research Part E: Logistics and Transportation Review  (under discussion).
+Additional journals are currently under discussion and will be announced as soon as the partnerships are confirmed.
+Final inclusion is subject to the editorial decision of each journal.
 
  
  
