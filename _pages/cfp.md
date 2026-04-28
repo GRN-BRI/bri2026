@@ -48,9 +48,11 @@ Opportunities for journal recommendation are exclusively available to authors wh
 
 
 ### Conference Key Dates：
-1. Abstract and full paper submission deadline: **May 16, 2026.**
-2. Registration deadline: **October 16, 2026.**
-3. Conference dates: **November 26–28, 2026.**
-
-
+1. Call for Papers Open: **May 1, 2026**
+2. Abstract Submission Deadline: **July 30, 2026**
+3. Full Paper Submission Deadline: **July 30, 2026**
+4. Conference dates: **November 26–28, 2026.**
+<br>
+#### Early-Acceptance Letter Request:
+If you require an acceptance letter earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo (ahjo@jbnu.ac.kr).
 
