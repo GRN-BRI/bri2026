@@ -18,14 +18,13 @@ Full Paper: 5,000–7,000 words (English)
 File: PDF or DOCX (use official templates)
 
 ## 3. Thematic Tracks (select one)
-
-T1. Transportation & Logistics Systems and Networks
-T2. Global Supply Chains, International Trade, and Trade Facilitation
-T3. Maritime, Air Transport, Ports, and Intermodal Transportation
-T4. Trade/Transport/Logistics Policy and Regulation
-T5. Digital Transformation and 4IR Technologies
-T6. Decarbonization & Green Logistics
-T7. ESG, Corporate Sustainability, and Environmental Governance
+T1. Transportation & Logistics Systems and Networks<br>
+T2. Global Supply Chains, International Trade, and Trade Facilitation<br>
+T3. Maritime, Air Transport, Ports, and Intermodal Transportation<br>
+T4. Trade/Transport/Logistics Policy and Regulation<br>
+T5. Digital Transformation and 4IR Technologies<br>
+T6. Decarbonization & Green Logistics<br>
+T7. ESG, Corporate Sustainability, and Environmental Governance<br>
 
 ## 4. How to Submit
 
