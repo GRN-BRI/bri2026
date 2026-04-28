@@ -8,16 +8,17 @@ permalink: /submission
 
 # SUBMISSION GUIDELINES — GRN-BRI 2026
 
-## 1. Submission Window
+
+### 1. Submission Window
 - Open:  May 1, 2026
 - Close: July 30, 2026 (23:59 KST)
 
-## 2. Submission Types
+### 2. Submission Types
 Extended Abstract: 500–800 words (English)<br>
 Full Paper: 5,000–7,000 words (English)<br>
 File: PDF or DOCX (use official templates)<br>
 
-## 3. Thematic Tracks (select one)
+### 3. Thematic Tracks (select one)
 T1. Transportation & Logistics Systems and Networks<br>
 T2. Global Supply Chains, International Trade, and Trade Facilitation<br>
 T3. Maritime, Air Transport, Ports, and Intermodal Transportation<br>
@@ -26,7 +27,7 @@ T5. Digital Transformation and 4IR Technologies<br>
 T6. Decarbonization & Green Logistics<br>
 T7. ESG, Corporate Sustainability, and Environmental Governance<br>
 
-## 4. How to Submit
+### 4. How to Submit
 
 Send the following two files in ONE e-mail:
 - Submission Cover Sheet (DOCX)   [Download Cover Sheet Template](/bri2026/downloads/GRN-BRI2026_Submission_Cover_Sheet.docx)
@@ -34,10 +35,10 @@ Send the following two files in ONE e-mail:
 
 To: ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
 
-Subject line format: [GRN-BRI2026][Track T#] Paper Title — Corresponding Author 
+Subject line format: [GRN-BRI2026][Track T#] Paper Title — Corresponding Author<br>
 Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supply Chain Resilience — Ah-Hyun Jo
 
-## 5. Cover Sheet Required Fields
+### 5. Cover Sheet Required Fields
 ① Paper Title<br>
 ② Submission Type (Abstract / Full Paper)<br>
 ③ Thematic Track (T1–T7)<br>
@@ -45,6 +46,6 @@ Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supp
 ⑤ Co-Authors (Name, Affiliation, E-mail)<br>
 ⑥ Keywords (3–5)<br>
 
-## 6. Contact for Submissions
+### 6. Contact for Submissions
 Prof. Ah-Hyun Jo (Program Chair) — ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
 
