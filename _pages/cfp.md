@@ -52,7 +52,7 @@ Opportunities for journal recommendation are exclusively available to authors wh
 2. Abstract Submission Deadline: **July 30, 2026**
 3. Full Paper Submission Deadline: **July 30, 2026**
 4. Conference dates: **November 26–28, 2026.**
-<br>
-#### Early-Acceptance Letter Request:
-If you require an acceptance letter earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo (ahjo@jbnu.ac.kr).
+
+### Early-Acceptance Letter Request:
+If you require an acceptance letter earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
 
