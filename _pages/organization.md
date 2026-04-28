@@ -60,30 +60,27 @@ Zhou, Yanjie, Zhengzhou University, China<br>
 The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
 
 **General Chair**<br>
-Prof. Choi, Kyoung-Suk , Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea
-
+Prof. Choi, Kyoung-Suk , Dean of Business and Economics College, Jeonbuk National University, Jeonju, Korea<br>
+**General Chair**<br>
+Prof. Jo，Ah-Hyun , Department of International Trade, Jeonbuk National University, Jeonju, Korea<br>
 **Local Organizing Committee**<br>
 Lee, Yoon, Jeonbuk National University, Jeonju, Korea <br>
-Choi, Hanbyul, Jeonbuk National University, Jeonju, Korea<br>
-Jo, Ahhyun, Jeonbuk National University, Jeonju, Korea 
-<br>
 <br>
 
 **Conference Secretariat**<br>
-Tian, Dechang, Jeonbuk National University, Jeonju, Korea <br>
-Wang, Zhipeng, Jeonbuk National University, Jeonju, Korea <br>
 Wu, Xia, Jeonbuk National University, Jeonju, Korea <br>
-Xie, Xiaoxuan, Jeonbuk National University, Jeonju, Korea <br>
 Yang, Chunteng, Jeonbuk National University, Jeonju, Korea <br>
+Xie, Xiaoxuan, Jeonbuk National University, Jeonju, Korea <br>
+BAKHTYARI , Mohammad Tamim, Jeonbuk National University, Jeonju, Korea <br>
+Pan，Menglan, Jeonbuk National University, Jeonju, Korea <br>
 
 
+**Organizers**<br>
+College of Business and Economics, Jeonbuk National University, Jeonju, Korea<br>
 
-**Organizers & Sponsors**
-<br>
-Jeonbuk National University, Jeonju City, Korea<br>
-
-
-
+**Co-Hosts / Sponsors**<br>
+Research Institute of Industry and Economy, Jeonbuk National University (전북대학교 경상대학 산업경제연구소)<br>
+BK21 FOUR Education and Research Program, Department of International Trade, Jeonbuk National University (전북대학교 국제무역학과 BK21 FOUR 사업단)
 
 
 
