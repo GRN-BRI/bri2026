@@ -49,7 +49,3 @@ Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supp
 ### 6. Contact for Submissions
 Prof. Ah-Hyun Jo (Program Chair) — ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
 
-
-**Early-Acceptance Letter Request:**
-If you require an **acceptance letter** earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
-
