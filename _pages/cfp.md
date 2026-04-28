@@ -38,6 +38,7 @@ Opportunities for journal recommendation are exclusively available to authors wh
 ### Template：
 - [Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx)
 - [Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)
+- [Cover Sheet Template](/bri2026/downloads/GRN-BRI2026_Submission_Cover_Sheet.docx)
 
 
 ### Conference Key Dates：
