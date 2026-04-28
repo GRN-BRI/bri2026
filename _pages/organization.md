@@ -67,11 +67,11 @@ Prof. Jo, Ah-Hyun , Department of International Trade, Jeonbuk National Universi
 **Local Organizing Committee**<br>
 Lee, Yoon, Jeonbuk National University, Korea <br>
 **Conference Secretariat**<br>
-Wu, Xia, Jeonbuk National University, Jeonju, Korea <br>
-Yang, Chunteng, Jeonbuk National University, Jeonju, Korea <br>
-Xie, Xiaoxuan, Jeonbuk National University, Jeonju, Korea <br>
-BAKHTYARI , Mohammad Tamim, Jeonbuk National University, Jeonju, Korea <br>
-Pan，Menglan, Jeonbuk National University, Jeonju, Korea <br>
+Wu, Xia, Jeonbuk National University, Korea <br>
+Yang, Chunteng, Jeonbuk National University, Korea <br>
+Xie, Xiaoxuan, Jeonbuk National University, Korea <br>
+BAKHTYARI, Mohammad Tamim, Jeonbuk National University, Korea <br>
+Pan, Menglan, Jeonbuk National University, Korea <br>
 
 
 **Organizers**<br>
