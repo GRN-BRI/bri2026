@@ -23,7 +23,7 @@ The conference invites submissions across several key research streams, includin
 **1. Transportation and logistics systems and networks**<br>
 **2. Global supply chains, international trade, and trade facilitation**<br>
 **3. The interaction between logistics and the economy, including maritime and air 
-transport, ports and airports, and intermodal transportation**<br>
+transport, ports and airports, and multimodal transportation**<br>
 **4. Policies, regulations, and institutional frameworks related to trade, transport, and 
 logistics**<br>
 **5. Digital transformation and Fourth Industrial Revolution technologies in 
