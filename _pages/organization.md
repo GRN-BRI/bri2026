@@ -80,7 +80,7 @@ College of Business and Economics, Jeonbuk National University <br>
 **Co-Hosts / Sponsors**<br>
 Research Institute of Industry and Economy, Jeonbuk National University (전북대학교 경상대학 산업경제연구소)<br>
 BK21 FOUR Education and Research Program, Department of International Trade, Jeonbuk National University (전북대학교 국제무역학과 BK21 FOUR 사업단)<br>
-JBNU SSK Center for Inclusive Economic Policy
+JBNU SSK Center for Inclusive Economic Policy (전북대학교 SSK 포용적경제정책연구단)
 
 
  
