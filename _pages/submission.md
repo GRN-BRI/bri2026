@@ -21,7 +21,7 @@ File: PDF or DOCX (use official templates)<br>
 ### 3. Thematic Tracks (select one)
 T1. Transportation & Logistics Systems and Networks<br>
 T2. Global Supply Chains, International Trade, and Trade Facilitation<br>
-T3. Maritime, Air Transport, Ports, and Intermodal Transportation<br>
+T3. Maritime, Air Transport, Ports, and Multimodal Transportation<br>
 T4. Trade/Transport/Logistics Policy and Regulation<br>
 T5. Digital Transformation and 4IR Technologies<br>
 T6. Decarbonization & Green Logistics<br>
