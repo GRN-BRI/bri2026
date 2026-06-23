@@ -89,42 +89,49 @@ Step 3: Jeonju Station → Venue
  - Mode: Taxi
  - Time: Approx. 15 minutes (4 km).
  - Fare: Approx. KRW 7,000.
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Airport Bus Information
-Timetable Search and Ticket Information can be found in [https://intercitybuse.tmoney.co.kr/runinf/runInf.do](https://intercitybuse.tmoney.co.kr/runinf/runInf.do)<br>
-Please note that there are two different bus terminals in Jeonju: **Daehan Limousine (Jeonju)** and **Jeonju Intercity Bus Terminal**
+Bus timetables, route information are available on the [https://intercitybuse.tmoney.co.kr/runinf/runInf.do](https://intercitybuse.tmoney.co.kr/runinf/runInf.do)<br>
+Please note that airport bus services use two different terminals in Jeonju: <br>
+**Daehan Limousine (Jeonju)** : The only Jeonju terminal with direct buses to and from Gimpo Airport.<br>
+**Jeonju Intercity Bus Terminal** : Recommended for Incheon Airport, as it is closer to the conference venue and recommended hotel.
 
 ## Incheon International Airport → Jeonju
 
 ### A. Incheon Airport → Daehan Limousine (Jeonju)
 
-**From Incheon Airport Terminal 1 → Daehan Limousine (Jeonju)** <br>
-- Number of services: 14 services per day<br>
-- Operating hours: 05:45–22:45<br>
-- Travel time: Approximately 3 hours 45 minutes–4 hours 5 minutes<br>
-- Departure times: 05:45, 06:30, 07:30, 08:25, 09:10, 10:45, 12:00, 12:55, 14:00, 15:00, 16:30, 17:00, 17:55, 18:30, 19:10, 19:50, 20:45, 21:45, 22:45<br>
-
-**From Incheon Airport Terminal 2 → Daehan Limousine (Jeonju)** <br>
-- Number of services: 14 services per day<br>
-- Operating hours: 06:10–23:10<br>
-- Travel time: Approximately 3 hours 20 minutes–3 hours 40 minutes<br>
-- Departure times:06:10, 06:55, 07:55, 08:50, 09:35, 11:10, 12:25, 13:20, 14:25, 15:25, 16:55, 17:25, 18:20, 18:55, 19:35, 20:15, 21:10, 22:10, 23:10<br>
+**From Incheon Airport Terminal 1 → Daehan Limousine (Jeonju)** 
+- Number of services: 19 services per day
+- Operating hours: 06:10–23:10
+- Travel time:Approximately 3 hours 30 minutes
+- Departure times: 06:10, 06:55, 07:55, 08:50, 09:35, 11:10, 12:25, 13:20, 14:25, 15:25, 16:55, 17:25, 18:20, 18:55, 19:35, 20:15, 21:10, 22:10, 23:10
+  
+**From Incheon Airport Terminal 2 → Daehan Limousine (Jeonju)** 
+- Number of services: 19 services per day
+- Operating hours: 05:45–22:45
+- Travel time: Approximately 3 hours 30 minutes
+- Departure times:05:45, 06:30, 07:30, 08:25, 09:10, 10:45, 12:00, 12:55, 14:00, 15:00, 16:30, 17:00, 17:55, 18:30, 19:10, 19:50, 20:45, 21:45, 22:45
   
 ### B. Incheon Airport → Jeonju Intercity Bus Terminal
 
-**From Incheon Airport Terminal 1 → Jeonju Intercity Bus Terminal** <br>
+**From Incheon Airport Terminal 1 → Jeonju Intercity Bus Terminal** 
 
-- Number of services: 14 services per day<br>
-- Operating hours: 00:30–18:30<br>
-- Travel time to Terminal 1: Approximately 3 hours 10 minutes–3 hours 40 minutes<br>
-- Departure times from Jeonju:00:30, 01:00, 01:30, 02:00, 02:30, 03:00, 03:30, 04:00, 04:30, 05:30, 07:00, 09:00, 10:20, 11:00, 12:00, 13:30, 15:00, 16:30, 18:30
+- Number of services: 22 services per day
+- Operating hours: 06:20–22:50
+- Travel time to Terminal 1: Approximately 3 hours
+- Departure times from Jeonju:06:20, 07:15, 07:40, 08:25, 08:55, 09:15, 10:15, 10:40, 11:25, 12:15, 12:55, 13:55, 14:55, 16:25, 17:05, 17:45, 18:25, 19:25, 20:05, 20:45, 21:40, 22:50
 
 **From Incheon Airport Terminal 2 → Jeonju Intercity Bus Terminal**
-- Number of services: 11 services per day
-- Operating hours: 02:20–17:10
-- Travel time: Approximately 3 hours–3 hours 15 minutes
-- Departure times: 02:20, 06:30, 08:00, 09:20, 10:00, 13:00, 14:00, 14:30, 15:20, 16:20, 17:10
+- Number of services: 22 services per day
+- Operating hours: 05:55–22:30
+- Travel time: Approximately 3 hours 25 minutes
+- Departure times: 05:55, 06:50, 07:15, 08:00, 08:30, 08:50, 09:50, 10:20, 11:00, 11:50, 12:30, 13:30, 14:30, 16:00, 16:40, 17:20, 18:00, 19:00, 19:40, 20:20, 21:20, 22:30
 
 
 ## Gimpo International Airport → Jeonju
@@ -136,36 +143,37 @@ Please note that there are two different bus terminals in Jeonju: **Daehan Limou
 - Travel time: Approximately 3 hours 10 minutes
 - Departure times: 07:25, 08:25, 10:05, 11:40, 12:55, 14:55, 15:55, 17:25, 18:50, 20:05, 20:45, 21:40, 22:40, 23:40
 
+
 ## Jeonju → Incheon International Airport
 
 ### A. Daehan Limousine (Jeonju) → Incheon Airport
 **Daehan Limousine (Jeonju) → Incheon Airport Terminal 1**
 
-- Number of services: 14 services per day
-- Operating hours: 05:45–22:45
-- Travel time: Approximately 3 hours 45 minutes–4 hours 5 minutes
-- Departure times: 05:45, 06:30, 07:30, 08:25, 09:10, 10:45, 12:00, 12:55, 14:00, 15:00, 16:30, 17:00, 17:55, 18:30, 19:10, 19:50, 20:45, 21:45, 22:45
+- Number of services: 19 services per day
+- Operating hours: 00:30–18:30
+- Travel time: Approximately 3 hours 30 minutes
+- Departure times: 00:30, 01:00, 01:30, 02:00, 02:30, 03:00, 03:30, 04:00, 04:30, 05:30, 07:00, 09:00, 10:20, 11:00, 12:00, 13:30, 15:00, 16:30, 18:30
 
 **Daehan Limousine (Jeonju) → Incheon Airport Terminal 2**
 
-- Number of services: 14 services per day
-- Operating hours: 06:10–23:10
-- Travel time: Approximately 3 hours 20 minutes–3 hours 40 minutes
-- Departure times: 06:10, 06:55, 07:55, 08:50, 09:35, 11:10, 12:25, 13:20, 14:25, 15:25, 16:55, 17:25, 18:20, 18:55, 19:35, 20:15, 21:10, 22:10, 23:10
+- Number of services: 19 services per day
+- Operating hours: 00:30–18:30
+- Travel time: Approximately 4 hours
+- Departure times: 00:30, 01:00, 01:30, 02:00, 02:30, 03:00, 03:30, 04:00, 04:30, 05:30, 07:00, 09:00, 10:20, 11:00, 12:00, 13:30, 15:00, 16:30, 18:30
 
 ### B. Jeonju Intercity Bus Terminal → Incheon Airport
 **Jeonju Intercity Bus Terminal → Incheon Airport Terminal 1**
-- Number of services: 14 services per day
-- Operating hours: 00:30–18:30
-- Travel time: Approximately 3 hours 10 minutes–3 hours 40 minutes
-- Departure times: 00:30, 01:00, 01:30, 02:00, 02:30, 03:00, 03:30, 04:00, 04:30, 05:30, 07:00, 09:00, 10:20, 11:00, 12:00, 13:30, 15:00, 16:30, 18:30
+- Number of services: 22 services per day
+- Operating hours: 01:00–17:10
+- Travel time: Approximately 3 hours 15 minutes
+- Departure times: 01:00, 01:30, 02:00, 02:20, 03:00, 03:30, 04:00, 04:30, 05:30, 06:30, 07:00, 08:00, 09:20, 10:00, 11:00, 12:00, 13:00, 14:00, 14:30, 15:20, 16:20, 17:10
 
 
 **Jeonju Intercity Bus Terminal → Incheon Airport Terminal 2**
-- Number of services: 14 services per day
-- Operating hours: 02:20–17:10
-- Travel time: Approximately 3 hours 20 minutes–3 hours 40 minutes
-- Departure times from Jeonju: 02:20, 06:30, 08:00, 09:20, 10:00, 13:00, 14:00, 14:30, 15:20, 16:20, 17:10
+- Number of services: 22 services per day
+- Operating hours: 01:00–17:10
+- Travel time: Approximately 3 hours 35 minutes
+- Departure times: 01:00, 01:30, 02:00, 02:20, 03:00, 03:30, 04:00, 04:30, 05:30, 06:30, 07:00, 08:00, 09:20, 10:00, 11:00, 12:00, 13:00, 14:00, 14:30, 15:20, 16:20, 17:10
 
 ## Jeonju → Gimpo International Airport
 
