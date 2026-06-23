@@ -12,7 +12,7 @@ The conference venue is located at **The International Convention Center, Jeonbu
 
 ## Arrival at Incheon International Airport (ICN)
 #### Option A: Via Jeonju Intercity Bus Terminal (Recommended，Closest to the venue.）
-Step 1: Incheon Airport → Jeonju Intercity Bus Terminal
+Step 1: Incheon International Airport → Jeonju Intercity Bus Terminal
  - Mode: Intercity Bus
  - Travel Time: Approx. 3 hours
  - Fare: Approx. KRW 31,000
@@ -24,31 +24,32 @@ Step 2: Jeonju Intercity Bus Terminal → Venue
  - Fare: Approx. KRW 6,000
  <br>
  
-#### Option B: Via Jeonju Limousine Bus Terminal(Alternative bus route)
-Step 1: Incheon Airport → Jeonju Limousine Bus Terminal
+#### Option B: Via Daehan Limousine (Jeonju) Bus Terminal(Alternative bus route)
+Step 1: Incheon International Airport → Daehan Limousine (Jeonju)
  - Mode: Limousine Bus
  - Travel Time: Approx. 3.5 – 4 hours
  - Fare: Approx. KRW 33,000 – 34,000
  - Ticket Purchase:Online or On-site at the Airport.
 
-Step 2: Jeonju Limousine Bus Terminal → Venue
+Step 2: Daehan Limousine (Jeonju) → Venue
  - Mode: Taxi
  - Time: Approx. 20 minutes (7 km)
  - Fare: Approx. KRW 11,000
 <br>
 
-#### Option C: Via KTX Train (High-Speed Train) (Recommended if you prefer trains or plan to stop by Seoul).
+#### Option C: Via AREX and KTX High-Speed Train (Recommended if you prefer trains or plan to stop by Seoul).
 
-Step 1: Incheon Airport → Seoul Station
+Step 1: Incheon International Airport → Seoul Station
  - Mode: AREX (Airport Railroad Express)
- - Travel Time: 43 – 51 mins (Express Train) / 60 mins (All-stop Train)
- - Fare: Approx. KRW 9,500 (Express)
+ - Travel Time: 45 mins (Express Train) / 65 mins (All-stop Train)
+ - Fare: Approx. KRW 13,000(Express Train) / KRW 5,000 (All-stop Train)
 
 Step 2: Seoul Station → Jeonju Station
  - Mode: KTX 
  - Travel Time: Approx. 1 hour 40 minutes
  - Fare: Approx. KRW 34,600
- - Ticket Purchase:Online or On-site at the station.
+ - Ticket Purchase:Online or On-site at the station.<br>
+**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops to Yongsan Station, where more frequent KTX services to Jeonju are available.
 
 Step 3: Jeonju Station → Venue
  - Mode: Taxi
@@ -59,14 +60,14 @@ Step 3: Jeonju Station → Venue
 
 
 ## Arrival at Gimpo International Airport (GMP)
-#### Option A: Via Jeonju Limousine Bus Terminal(Most convenient route)
-Step 1: Gimpo Airport → Jeonju Limousine Bus Terminal
+#### Option A: Via Daehan Limousine (Jeonju) Bus Terminal(Most convenient route)
+Step 1: Gimpo Airport → Daehan Limousine (Jeonju)
  - Mode: Limousine Bus
  - Travel Time: Approx. 3.5 hours
  - Fare: Approx. KRW 28,000
  - Ticket Purchase:Online or On-site at the Airport
 
-Step 2: Jeonju Limousine Bus Terminal → Venue
+Step 2: Daehan Limousine (Jeonju) → Venue
  - Mode: Taxi
  - Travel Time: Approx. 20 minutes (7 km)
  - Fare: Approx. KRW 11,000
@@ -84,11 +85,15 @@ Step 2: Seoul Station → Jeonju Station
  - Travel Time: Approx. 1 hour 40 minutes.
  - Fare: Approx. KRW 34,600.
  - Ticket Purchase: Online or On-site at the station.
+<br>
 
+**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops to Yongsan Station, where more frequent KTX services to Jeonju are available.
+
+<br>
 Step 3: Jeonju Station → Venue
- - Mode: Taxi
- - Time: Approx. 15 minutes (4 km).
- - Fare: Approx. KRW 7,000.
+- Mode: Taxi
+- Time: Approx. 15 minutes (4 km).
+- Fare: Approx. KRW 7,000.
 <br>
 <br>
 <br>
@@ -126,8 +131,8 @@ Please note that airport bus services use two different terminals in Jeonju: <br
 
 - Number of services: 22 services per day
 - Operating hours: 06:20–22:50
-- Travel time to Terminal 1: Approximately 3 hours
-- Departure times from Jeonju:06:20, 07:15, 07:40, 08:25, 08:55, 09:15, 10:15, 10:40, 11:25, 12:15, 12:55, 13:55, 14:55, 16:25, 17:05, 17:45, 18:25, 19:25, 20:05, 20:45, 21:40, 22:50
+- Travel time: Approximately 3 hours
+- Departure times: 06:20, 07:15, 07:40, 08:25, 08:55, 09:15, 10:15, 10:40, 11:25, 12:15, 12:55, 13:55, 14:55, 16:25, 17:05, 17:45, 18:25, 19:25, 20:05, 20:45, 21:40, 22:50
 
 **From Incheon Airport Terminal 2 → Jeonju Intercity Bus Terminal**
 - Number of services: 22 services per day
