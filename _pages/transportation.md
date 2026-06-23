@@ -49,7 +49,7 @@ Step 2: Seoul Station → Jeonju Station
  - Travel Time: Approx. 1 hour 40 minutes
  - Fare: Approx. KRW 34,600
  - Ticket Purchase:Online or On-site at the station.<br>
-**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops to Yongsan Station, where more frequent KTX services to Jeonju are available.
+**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops from Seoul Station to **Yongsan Station**, where more frequent KTX services to Jeonju are available.
 
 Step 3: Jeonju Station → Venue
  - Mode: Taxi
@@ -60,8 +60,8 @@ Step 3: Jeonju Station → Venue
 
 
 ## Arrival at Gimpo International Airport (GMP)
-#### Option A: Via Daehan Limousine (Jeonju) Bus Terminal(Most convenient route)
-Step 1: Gimpo Airport → Daehan Limousine (Jeonju)
+#### Option A: Via Daehan Limousine (Jeonju) Bus Terminal
+Step 1: Gimpo International Airport → Daehan Limousine (Jeonju)
  - Mode: Limousine Bus
  - Travel Time: Approx. 3.5 hours
  - Fare: Approx. KRW 28,000
@@ -73,8 +73,8 @@ Step 2: Daehan Limousine (Jeonju) → Venue
  - Fare: Approx. KRW 11,000
 <br>
 
-#### Option B: Via KTX Train (High-Speed Train)
-Step 1: Gimpo Airport → Seoul Station
+#### Option B: Via AREX and KTX High-Speed Train
+Step 1: Gimpo International Airport → Seoul Station
  - Mode: AREX (Airport Railroad)
  - Direction: Bound for Seoul Station.
  - Travel Time: Approx. 30 minutes.
@@ -84,12 +84,10 @@ Step 2: Seoul Station → Jeonju Station
  - Mode: KTX
  - Travel Time: Approx. 1 hour 40 minutes.
  - Fare: Approx. KRW 34,600.
- - Ticket Purchase: Online or On-site at the station.
-<br>
+ - Ticket Purchase: Online or On-site at the station.<br>
 
-**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops to Yongsan Station, where more frequent KTX services to Jeonju are available.
+**Note**: KTX services from Seoul Station to Jeonju are limited. For additional departure options, passengers may take Subway Line 1 for two stops from Seoul Station to **Yongsan Station**, where more frequent KTX services to Jeonju are available.<br>
 
-<br>
 Step 3: Jeonju Station → Venue
 - Mode: Taxi
 - Time: Approx. 15 minutes (4 km).
