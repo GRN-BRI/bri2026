@@ -109,7 +109,7 @@ Please note that airport bus services use two different terminals in Jeonju: <br
 
 ## Incheon International Airport → Jeonju
 
-#### A. Incheon Airport → Daehan Limousine (Jeonju)
+#### Option A. Incheon Airport → Daehan Limousine (Jeonju)
 
 **From Incheon Airport Terminal 1 → Daehan Limousine (Jeonju)** 
 - Number of services: 19 services per day
@@ -123,7 +123,7 @@ Please note that airport bus services use two different terminals in Jeonju: <br
 - Travel time: Approximately 3 hours 30 minutes
 - Departure times:05:45, 06:30, 07:30, 08:25, 09:10, 10:45, 12:00, 12:55, 14:00, 15:00, 16:30, 17:00, 17:55, 18:30, 19:10, 19:50, 20:45, 21:45, 22:45
   
-#### B. Incheon Airport → Jeonju Intercity Bus Terminal
+#### Option B. Incheon Airport → Jeonju Intercity Bus Terminal
 
 **From Incheon Airport Terminal 1 → Jeonju Intercity Bus Terminal** 
 
@@ -153,7 +153,7 @@ Please note that airport bus services use two different terminals in Jeonju: <br
 
 ## Jeonju → Incheon International Airport
 
-#### A. Daehan Limousine (Jeonju) → Incheon Airport
+#### Option A. Daehan Limousine (Jeonju) → Incheon Airport
 **Daehan Limousine (Jeonju) → Incheon Airport Terminal 1**
 
 - Number of services: 19 services per day
@@ -168,7 +168,7 @@ Please note that airport bus services use two different terminals in Jeonju: <br
 - Travel time: Approximately 4 hours
 - Departure times: 00:30, 01:00, 01:30, 02:00, 02:30, 03:00, 03:30, 04:00, 04:30, 05:30, 07:00, 09:00, 10:20, 11:00, 12:00, 13:30, 15:00, 16:30, 18:30
 
-#### B. Jeonju Intercity Bus Terminal → Incheon Airport
+#### Option B. Jeonju Intercity Bus Terminal → Incheon Airport
 **Jeonju Intercity Bus Terminal → Incheon Airport Terminal 1**
 - Number of services: 22 services per day
 - Operating hours: 01:00–17:10
