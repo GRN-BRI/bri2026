@@ -65,7 +65,9 @@ Prof. Choi, Kyoung-Suk , Dean, College of Business and Economics, Jeonbuk Nation
 Prof. Jo, Ah-Hyun , Department of International Trade, Jeonbuk National University, Korea<br>
 
 **Local Organizing Committee**<br>
-Lee, Yoon, Jeonbuk National University, Korea <br>
+Lee, Yoon, Jeonbuk National University, Korea<br>
+Choi, Hanbyul, Jenbuk National University, Korea<br>
+
 **Conference Secretariat**<br>
 Wu, Xia, Jeonbuk National University, Korea <br>
 Yang, Chunteng, Jeonbuk National University, Korea <br>
