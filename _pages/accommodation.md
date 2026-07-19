@@ -11,7 +11,7 @@ permalink: /accommodation
 ### Recommended Hotel 1：Shilla Stay Jeonju
 - Rooms are reserved primarily for invited speakers.
 - Rates and booking details will be announced.
-- Website: [https://www.shillastay.com/jeonju](https://www.shillastay.com/jeonju)
+- Website:[https://www.shillahotels.com/en/shillastay/jeonju/index.do](https://www.shillahotels.com/en/shillastay/jeonju/index.do)
 
 <br>
 
