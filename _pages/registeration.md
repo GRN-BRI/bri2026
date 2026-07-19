@@ -13,16 +13,19 @@ To participate in the conference, registration must be completed through on-site
 
 ### Registration Fees
 
+**Registration Deadline: October 16, 2026**
+
 | Participant Category | Fee |
 | :--- | :---: |
 | **Standard / Regular** | 400 USD |
 | **Students**| 300 USD |
 {: .table .table-bordered}
 
+The registration fee covers all academic sessions, conference materials, coffee breaks, lunch, and the gala dinner on 27 November. Publication fees in international proceedings are not included.
 <br>
 
 ### Payment Method
-<mark>(On-site Payment Accepted)</mark>
+On-site payment accepted. Details of the payment procedure will be announced.
 <br>
 
 
