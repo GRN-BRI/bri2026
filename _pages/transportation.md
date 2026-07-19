@@ -54,7 +54,7 @@ Step 2: Seoul Station → Jeonju Station
 Step 3: Jeonju Station → Venue
  - Mode: Taxi
  - Travel Time: Approx. 15 minutes (4 km)
- - Fare: Approx. KRW 6,000
+ - Fare: Approx. KRW 7,000
 
 <br>
 
