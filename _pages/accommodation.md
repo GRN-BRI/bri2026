@@ -8,7 +8,14 @@ permalink: /accommodation
 
 # Accommodation
 
-### Recommended Hotel： Best Western Plus Jeonju Hotel
+### Recommended Hotel 1：Shilla Stay Jeonju
+- Rooms are reserved primarily for invited speakers.
+- Rates and booking details will be announced.
+- Website: [https://www.shillastay.com/jeonju](https://www.shillastay.com/jeonju)
+
+<br>
+
+### Recommended Hotel 2： Best Western Plus Jeonju Hotel
 - Distance: Approx. 15 min by taxi (5 km) from the venue.
 - Address:41 Hyeonmu 1-gil, Wansan-gu, Jeonju-si, Jeonbuk State, Republic of Korea
 - Website: [http://www.bwplusjeonju.com](http://www.bwplusjeonju.com)
