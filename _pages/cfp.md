@@ -51,6 +51,15 @@ Opportunities for journal recommendation are exclusively available to authors wh
 If you require an **acceptance letter** earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
 
 <br>
+
+<div style="text-align: center; margin-top: 40px;">
+  <img
+    src="{{ '/images/call-for-paper-poster.png' | relative_url }}"
+    alt="GRN-BRI Call for Papers Poster"
+    style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 0 auto;"
+  >
+</div>
+
 <br>
 <br>
 <br>
