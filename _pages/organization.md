@@ -6,6 +6,42 @@ sitemap: false
 permalink: /organization/
 ---
 
+## The 11th GRN-BRI 2026 Organizing Team
+
+The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
+
+
+**General Chair**<br>
+Assoc. Prof. Choi, Kyoung-Suk, Dean, College of Business and Economics, Jeonbuk National University, Republic of Korea<br>
+
+**Conference Co-Chair**<br>
+Prof. Lee, Paul Tae-Woo, Director, Maritime Logistics and Free Trade Islands Research Center; Director, Institute of Maritime Logistics, Ocean College, Zhejiang University, China<br>
+
+**Program Chair**<br>
+Assist. Prof. Jo, Ah-Hyun, Department of International Trade, Jeonbuk National University, Republic of Korea<br>
+
+**Local Organizing Committee**<br>
+Assist. Prof. Lee, Yoon, Jeonbuk National University, Republic of Korea<br>
+Assist. Prof. Choi, Hanbyul, Jeonbuk National University, Republic of Korea<br>
+
+**Conference Secretariat**<br>
+Wu, Xia, Jeonbuk National University, Republic of Korea <br>
+Yang, Chunteng, Jeonbuk National University, Republic of Korea <br>
+Xie, Xiaoxuan, Jeonbuk National University, Republic of Korea <br>
+Bakhtyari, Mohammad Tamim, Jeonbuk National University, Republic of Korea <br>
+Pan, Menglan, Jeonbuk National University, Republic of Korea <br>
+
+
+
+**Organizers**<br>
+College of Business and Economics, Jeonbuk National University <br>
+
+**Co-Hosts / Sponsors**<br>
+Research Institute of Industry and Economy, Jeonbuk National University<br>
+BK21 FOUR Education and Research Program, Department of International Trade, Jeonbuk National University<br>
+JBNU SSK Center for Inclusive Economic Policy
+
+
 ## GRN-BRI Executive Committee
 
 The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the following executive members:<br>
@@ -34,19 +70,19 @@ Jiang, Chaozhe, Southwest Jiaotong University, China<br>
 Lam, Jasmine Siu Lee, Technical University of Denmark, Denmark<br>
 Lee, Jun Yeop, Inha University, Republic of Korea<br>
 Lee, Paul Tae-Woo, Zhejiang University, China<br>
-Lim, K. Ming, Univerity of Glasgow, United Kingdom<br>
+Lim, K. Ming, University of Glasgow, United Kingdom<br>
 Liu, Weihua, Tianjin University, China<br>
 Mokkhamakkul, Tartat, Chulalongkorn University, Thailand<br>
 Ng, Adolf K.Y., Beijing Normal-Hong Kong Baptist University, China<br>
 Notteboom, Theo, University of Ghent, Belgium<br>
-Sheu, Jieu-Biing, National Taiwan University, Taiwan<br>
+Sheu, Jiuh-Biing, National Taiwan University, Taiwan<br>
 Shu, Yaqing, Ningbo University, China<br>
 Suthiwartnarueput, Kamonchanok, Chulalongkorn University, Thailand<br>
 Tezuka, Koichiro, Nihon University, Japan<br>
 Wang, Xin, Dalian Maritime University, China<br>
 Wilmsmeier, Gordon, University of Colombia, Colombia<br>
 Wu, Gang, Southwest Jiaotong University, China<br>
-Yan, Ran, Nanyang Technology University, Singapore<br>
+Yan, Ran, Nanyang Technological University, Singapore<br>
 Yang, Zaili, Liverpool John Moores University, United Kingdom<br>
 Yang, Zhong Zhen, Ningbo University, China<br>
 Zhang, Di, Wuhan University of Technology, China<br>
@@ -55,34 +91,7 @@ Zhong, Ming, Wuhan University of Technology, China<br>
 Zhou, Yanjie, Zhengzhou University, China<br>
 
 
-## The 11th GRN-BRI 2026 Organizing Team
 
-The 2026 conference is hosted and organized by the College of Business and Economics, Jeonbuk National University.
-
-**General Chair**<br>
-Prof. Choi, Kyoung-Suk , Dean, College of Business and Economics, Jeonbuk National University, Korea<br>
-**Program Chair**<br>
-Prof. Jo, Ah-Hyun , Department of International Trade, Jeonbuk National University, Korea<br>
-
-**Local Organizing Committee**<br>
-Lee, Yoon, Jeonbuk National University, Korea<br>
-Choi, Hanbyul, Jenbuk National University, Korea<br>
-
-**Conference Secretariat**<br>
-Wu, Xia, Jeonbuk National University, Korea <br>
-Yang, Chunteng, Jeonbuk National University, Korea <br>
-Xie, Xiaoxuan, Jeonbuk National University, Korea <br>
-BAKHTYARI, Mohammad Tamim, Jeonbuk National University, Korea <br>
-Pan, Menglan, Jeonbuk National University, Korea <br>
-
-
-**Organizers**<br>
-College of Business and Economics, Jeonbuk National University <br>
-
-**Co-Hosts / Sponsors**<br>
-Research Institute of Industry and Economy, Jeonbuk National University (전북대학교 경상대학 산업경제연구소)<br>
-BK21 FOUR Education and Research Program, Department of International Trade, Jeonbuk National University (전북대학교 국제무역학과 BK21 FOUR 사업단)<br>
-JBNU SSK Center for Inclusive Economic Policy (전북대학교 SSK 포용적경제정책연구단)
 
 
  
