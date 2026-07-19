@@ -9,6 +9,33 @@ permalink: /keynote/
 
 # Keynote speech
 
+**Keynote Speakers**
+ 
+Prof. Jiuh-Biing Sheu,
+National Taiwan University,
+Former Editor-in-Chief, Transportation Research Part E
+ 
+Prof. Ming K. Lim,
+University of Glasgow,
+Editor-in-Chief, International Journal of Logistics Research and Applications
+ 
+Prof. Xiaowen Fu,
+The Hong Kong Polytechnic University,
+Editor-in-Chief, Transport Policy
+ 
+Prof. Zhongzhen Yang,
+Ningbo University,
+Associate Editor, Transport Policy
+ 
+Prof. Weihua Liu,
+Tianjin University,
+Associate Editor, International Journal of Logistics Research and Applications
+ 
+Prof. Jun Yeop Lee,
+Inha University
+ 
+... and more to be announced
+
  
 [//]: # ()
 [//]: # ( )
