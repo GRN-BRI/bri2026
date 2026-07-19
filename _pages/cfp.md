@@ -45,20 +45,19 @@ Opportunities for journal recommendation are exclusively available to authors wh
 1. Call for Papers Open: **May 1, 2026**
 2. Abstract Submission Deadline: **August 30, 2026(Extended)**
 3. Full Paper Submission Deadline: **August 30, 2026(Extended)**
-4. Conference dates: **November 26–28, 2026.**
+4. Registration Deadline: **October 16, 2026**
+5. Conference dates: **November 26–28, 2026.**
 
 ### Early-Acceptance Letter Request:
 If you require an **acceptance letter** earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
 
 <br>
 
-<div style="text-align: center; margin-top: 40px;">
-  <img
-    src="{{ '/images/call-for-paper-poster.png' | relative_url }}"
-    alt="GRN-BRI Call for Papers Poster"
-    style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 0 auto;"
-  >
-</div>
+<img
+  src="/bri2026/images/call-for-paper-poster.png"
+  alt="GRN-BRI Call for Papers Poster"
+  style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 40px auto 0;"
+>
 
 <br>
 <br>
