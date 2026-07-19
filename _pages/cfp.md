@@ -71,7 +71,9 @@ If you require an **acceptance letter** earlier than the standard timeline (e.g.
 <br>
 
 
-<img src="/bri2026/images/call-for-paper-poster.png" alt="GRN-BRI Call for Papers Poster" style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 40px auto 0;">
+<div style="text-align: center; margin: 30px 0 15px;"><a href="/bri2026/images/call-for-paper-poster.png" download="call-for-paper-poster.png" style="display: inline-block; padding: 12px 24px; background-color: #0066cc; color: #ffffff; text-decoration: none; border-radius: 6px; font-weight: 600;">Download Poster</a></div>
+
+<img src="/bri2026/images/call-for-paper-poster.png" alt="GRN-BRI Call for Papers Poster" style="display: block; width: 100%; max-width: 1000px; height: auto; margin: 0 auto;">
 
 
 <br>
