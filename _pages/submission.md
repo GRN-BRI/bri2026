@@ -33,7 +33,7 @@ Send the following two files in ONE e-mail:
 - Submission Cover Sheet (DOCX)   [Download Cover Sheet Template](/bri2026/downloads/GRN-BRI2026_Submission_Cover_Sheet.docx)
 - Manuscript (PDF or DOCX)   [Download Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx) ， [Download Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)<br>
 
-To: ([grnbri2026@gmail.com.](mailto:grnbri2026@gmail.com.))
+To: ([grnbri2026@gmail.com](mailto:grnbri2026@gmail.com))
 
 Subject line format: [GRN-BRI2026][Track T#] Paper Title — Corresponding Author<br>
 Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supply Chain Resilience — Ah-Hyun Jo
