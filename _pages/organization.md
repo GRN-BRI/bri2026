@@ -72,11 +72,15 @@ Lee, Jun Yeop, Inha University, Republic of Korea<br>
 Lee, Paul Tae-Woo, Zhejiang University, China<br>
 Lim, K. Ming, University of Glasgow, United Kingdom<br>
 Liu, Weihua, Tianjin University, China<br>
+Mishra, Animesh, ICFAI Business School (IFHE), Hyderabad, India<br>
+Mishra, Pooja, Indian Institute of Information Technology Vadodara, India<br>
 Mokkhamakkul, Tartat, Chulalongkorn University, Thailand<br>
 Ng, Adolf K.Y., Beijing Normal-Hong Kong Baptist University, China<br>
 Notteboom, Theo, University of Ghent, Belgium<br>
+Oloruntoba, Richard, Curtin University, Australia<br>
 Sheu, Jiuh-Biing, National Taiwan University, Taiwan<br>
 Shu, Yaqing, Ningbo University, China<br>
+Srivastava, V. C., Indian Institute of Technology Roorkee, India<br>
 Suthiwartnarueput, Kamonchanok, Chulalongkorn University, Thailand<br>
 Tezuka, Koichiro, Nihon University, Japan<br>
 Wang, Xin, Dalian Maritime University, China<br>
