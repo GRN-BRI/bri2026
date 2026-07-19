@@ -33,7 +33,11 @@ transportation and logistics**<br>
 
 
 **Publication Note:** <br>
-Opportunities for journal recommendation are exclusively available to authors who submit a **full paper**. Following a rigorous evaluation by the conference academic committee, selected full papers will be recommended for possible publication in international journals, including The International Journal of Logistics Management, Ocean & Coastal Management, Transportation Research Part E: Logistics and Transportation Review (under discussion).
+Opportunities for journal recommendation are exclusively available to authors who submit a full paper. Following a rigorous evaluation by the conference academic committee, selected full papers will be recommended for submission to Special Issues of the following journals:
+- Transportation Research Part E: Logistics and Transportation Review
+- International Journal of Logistics Research and Applications<br>
+Final inclusion is subject to the editorial decision of each journal.
+
 
 ### Template：
 - [Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx)
