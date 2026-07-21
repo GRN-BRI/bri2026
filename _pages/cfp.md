@@ -58,8 +58,8 @@ Final inclusion is subject to the editorial decision of each journal.
 
 ### Conference Key Dates：
 1. Call for Papers Open: **May 1, 2026**
-2. Abstract Submission Deadline: **August 30, 2026(Extended)**
-3. Full Paper Submission Deadline: **August 30, 2026(Extended)**
+2. Abstract Submission Deadline: **September 15, 2026(Extended)**
+3. Full Paper Submission Deadline: **September 15, 2026(Extended)**
 4. Registration Deadline: **October 16, 2026**
 5. Conference dates: **November 26–28, 2026.**
 
