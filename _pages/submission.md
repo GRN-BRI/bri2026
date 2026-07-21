@@ -11,7 +11,7 @@ permalink: /submission
 
 ### 1. Submission Window
 - Open:  May 1, 2026
-- Close: August 30, 2026 (23:59 KST)
+- Close: September 15, 2026 (23:59 KST)
 
 ### 2. Submission Types
 Extended Abstract: 500–800 words (English)<br>
