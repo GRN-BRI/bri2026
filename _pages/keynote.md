@@ -31,9 +31,10 @@ Prof. Zaili Yang, Liverpool John Moores University, U.K.
 
 Prof. Zhongzhen Yang, Ningbo University, China; Associate Editor, Transport Policy
 
-... and more to be announced
+... and more to be announced*
 
 
+*The list is based on alphabetical order of family names.
  
 [//]: # ()
 [//]: # ( )
