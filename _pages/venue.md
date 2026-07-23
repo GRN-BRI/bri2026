@@ -56,9 +56,13 @@ permalink: /venue
   .jeonju-tile {
     position: relative;
     min-width: 0;
-    height: 195px;
+    aspect-ratio: 4 / 3;
     overflow: hidden;
     background: transparent;
+  }
+
+  .jeonju-strip--food .jeonju-tile {
+    aspect-ratio: 16 / 9;
   }
 
   .jeonju-tile img {
@@ -71,22 +75,14 @@ permalink: /venue
     object-fit: cover;
   }
 
-  .jeonju-tile::after {
-    content: "";
-    position: absolute;
-    inset: 45% 0 0;
-    background: linear-gradient(transparent, rgba(5, 22, 40, 0.86));
-    pointer-events: none;
-  }
-
   .jeonju-tile-label {
     position: absolute;
-    z-index: 1;
-    right: 0.8rem;
-    bottom: 0.75rem;
-    left: 0.8rem;
+    right: auto;
+    bottom: 0.5rem;
+    left: 0.5rem;
+    padding: 0.25em 0.5em;
+    background: rgba(0, 0, 0, 0.62);
     color: #fff;
-    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
   }
 
   .jeonju-summary {
@@ -113,6 +109,7 @@ permalink: /venue
     }
 
     .jeonju-tile {
+      aspect-ratio: auto;
       height: 180px;
       scroll-snap-align: start;
     }
