@@ -12,7 +12,7 @@ permalink: /contact
 College of Business and Economics, Jeonbuk National University
 
 ## Primary Contact (Program Chair):
-Prof. Ah-Hyun Jo, Department of International Trade<br>
+Assistant Prof. Ah-Hyun Jo, Department of International Trade<br>
 Jeonbuk National University<br>
 E-mail:  <a href="ahjo@jbnu.ac.kr"> ahjo@jbnu.ac.kr </a><br>
 
