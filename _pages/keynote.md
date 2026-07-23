@@ -11,30 +11,28 @@ permalink: /keynote/
 
 **Keynote Speakers**
  
-Prof. Jiuh-Biing Sheu,
-National Taiwan University,
-Former Editor-in-Chief, Transportation Research Part E
- 
-Prof. Ming K. Lim,
-University of Glasgow,
-Editor-in-Chief, International Journal of Logistics Research and Applications
- 
-Prof. Xiaowen Fu,
-The Hong Kong Polytechnic University,
-Editor-in-Chief, Transport Policy
- 
-Prof. Zhongzhen Yang,
-Ningbo University,
-Associate Editor, Transport Policy
- 
-Prof. Weihua Liu,
-Tianjin University,
-Associate Editor, International Journal of Logistics Research and Applications
- 
-Prof. Jun Yeop Lee,
-Inha University
- 
+Prof. Xiaowen Fu, The Hong Kong Polytechnic University, China; Editor-in-Chief, Transport Policy
+
+Prof. Jun Yeop Lee, Inha University, R.O. Korea
+
+Prof. Ming K. Lim, University of Glasgow, U.K.; Editor-in-Chief, InternationalJournal of Logistics Research and Applications
+
+Prof. Weihua Liu, Tianjin University, China; Associate Editor, InternationalJournal of Logistics Research and Applications
+
+Prof. Qiang Meng, National University of Singapore, Singapore; Past Co-Editor-in-Chief, Transportation Research Part E;Associate Editor, Transportation Research Part B andTransportation Science; Co-Editor-in-Chief, MultimodalTransportation
+
+Prof. Adolf K.Y. Ng, Beijing Normal-Hong Kong Baptist University, China;Associate Editor and Section Editor (Disasters and Resilience), Transportation Research Part D
+
+Prof. Mathews Nkhoma, Associate Deputy Vice-Chancellor - Strategy,International & Engagement, RMIT University, Australia
+
+Prof. Jiuh-Biing Sheu, National Taiwan University, Taiwan; Advisory Editor (PastEditor-in-Chief), Transportation Research Part E
+
+Prof. Zaili Yang, Liverpool John Moores University, U.K.
+
+Prof. Zhongzhen Yang, Ningbo University, China; Associate Editor, Transport Policy
+
 ... and more to be announced
+
 
  
 [//]: # ()
