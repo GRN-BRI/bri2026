@@ -29,28 +29,16 @@ permalink: /venue
     margin: 3.5rem 0;
   }
 
-  .jeonju-section h2 {
-    margin-bottom: 0.5rem;
-    color: #123b6d;
-    font-weight: 700;
-  }
-
   .jeonju-welcome {
     margin-top: 1.25rem;
-    padding: 1.2rem 1.5rem;
-    border-left: 5px solid #123b6d;
-    border-radius: 0 12px 12px 0;
-    background: #f3f6f9;
   }
 
   .jeonju-welcome ul {
-    margin: 0;
-    padding-left: 1.2rem;
+    margin-top: 0;
   }
 
   .jeonju-welcome li {
-    margin: 0.55rem 0;
-    line-height: 1.6;
+    margin-bottom: 0.5em;
   }
 
   .jeonju-strip {
@@ -59,9 +47,6 @@ permalink: /venue
     gap: 4px;
     margin-top: 1.25rem;
     overflow: hidden;
-    border-radius: 12px;
-    background: #fff;
-    box-shadow: 0 8px 24px rgba(13, 45, 87, 0.12);
   }
 
   .jeonju-strip--food {
@@ -73,15 +58,17 @@ permalink: /venue
     min-width: 0;
     height: 195px;
     overflow: hidden;
-    background: #123b6d;
+    background: transparent;
   }
 
   .jeonju-tile img {
     display: block;
     width: 100%;
     height: 100%;
+    margin: 0 !important;
+    border: 0 !important;
+    border-radius: 0 !important;
     object-fit: cover;
-    transition: transform 0.35s ease;
   }
 
   .jeonju-tile::after {
@@ -92,10 +79,6 @@ permalink: /venue
     pointer-events: none;
   }
 
-  .jeonju-tile:hover img {
-    transform: scale(1.035);
-  }
-
   .jeonju-tile-label {
     position: absolute;
     z-index: 1;
@@ -103,27 +86,15 @@ permalink: /venue
     bottom: 0.75rem;
     left: 0.8rem;
     color: #fff;
-    font-size: 0.98rem;
-    font-weight: 700;
-    line-height: 1.25;
     text-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
   }
 
   .jeonju-summary {
     margin: 1rem 0 0;
-    color: #4d5965;
-    line-height: 1.65;
   }
 
   .jeonju-note {
     margin-top: 1.5rem;
-    color: #6b747d;
-    font-size: 0.78rem;
-    line-height: 1.55;
-  }
-
-  .jeonju-note a {
-    color: #466d96;
   }
 
   @media (max-width: 700px) {
@@ -164,7 +135,7 @@ Address: 49-10, Changpo-gil, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Kore
 <ul>
 <li>Home to the main campus of Jeonbuk National University, Jeonju is widely known as one of Korea’s most authentically traditional cities.</li>
 <li>Once the capital of Later Baekje and the ancestral home of Joseon’s founding family, the city is rich in history and cultural heritage.</li>
-<li>Jeonju has been a <strong>UNESCO Creative City of Gastronomy</strong> since 2012 and is celebrated for its distinctive food culture.</li>
+<li>Jeonju has been a UNESCO Creative City of Gastronomy since 2012 and is celebrated for its distinctive food culture.</li>
 <li>Jeonju Hanok Village—one of Korea’s largest—is the heart of the city and a signature showcase of Korea’s unique “Han-style.”</li>
 </ul>
 </div>
@@ -190,7 +161,7 @@ Address: 49-10, Changpo-gil, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Kore
 <span class="jeonju-tile-label">Deokjin Park</span>
 </div>
 </div>
-<p class="jeonju-summary">Walk through the tiled-roof lanes of <strong>Hanok Village</strong>, meet Joseon history at <strong>Gyeonggijeon Shrine</strong>, admire the Romanesque beauty of <strong>Jeondong Cathedral</strong>, or relax beside the lake at <strong>Deokjin Park</strong>.</p>
+<p class="jeonju-summary">Walk through the tiled-roof lanes of Hanok Village, meet Joseon history at Gyeonggijeon Shrine, admire the Romanesque beauty of Jeondong Cathedral, or relax beside the lake at Deokjin Park.</p>
 </section>
 
 <section class="jeonju-section" aria-labelledby="taste-jeonju">
@@ -209,9 +180,7 @@ Address: 49-10, Changpo-gil, Deokjin-gu, Jeonju-si, Jeonbuk-do, Republic of Kore
 <span class="jeonju-tile-label">Kongnamul Gukbap</span>
 </div>
 </div>
-<p class="jeonju-summary">Try colorful <strong>Jeonju bibimbap</strong>, a generous <strong>hanjeongsik</strong> full-course meal, and warming <strong>kongnamul gukbap</strong>—soybean sprout soup with rice.</p>
+<p class="jeonju-summary">Try colorful Jeonju bibimbap, a generous hanjeongsik full-course meal, and warming kongnamul gukbap—soybean sprout soup with rice.</p>
 </section>
 
-<p class="jeonju-note">
-  City information: <a href="https://tour.jeonju.go.kr/eng/index.jeonju" target="_blank" rel="noopener">Visit Jeonju</a> 
-</p>
+<p class="jeonju-note">City information: <a href="https://tour.jeonju.go.kr/eng/index.jeonju" target="_blank" rel="noopener">Visit Jeonju</a></p>
