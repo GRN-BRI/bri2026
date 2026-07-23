@@ -21,7 +21,7 @@ Prof. Weihua Liu, Tianjin University, China; Associate Editor, InternationalJour
 
 Prof. Qiang Meng, National University of Singapore, Singapore; Past Co-Editor-in-Chief, Transportation Research Part E;Associate Editor, Transportation Research Part B andTransportation Science; Co-Editor-in-Chief, MultimodalTransportation
 
-Prof. Adolf K.Y. Ng, Beijing Normal-Hong Kong Baptist University, China;Associate Editor and Section Editor (Disasters and Resilience), Transportation Research Part D
+Prof. Adolf K.Y. Ng, Beijing Normal-Hong Kong Baptist University, China; Associate Editor and Section Editor (Disasters and Resilience), Transportation Research Part D
 
 Prof. Mathews Nkhoma, Associate Deputy Vice-Chancellor - Strategy,International & Engagement, RMIT University, Australia
 
