@@ -21,6 +21,8 @@ Outstanding full papers presented at GRN-BRI 2026 will be invited for submission
    - Prof. Paul Tae-Woo Lee (Lead Guest Editor), Ocean College, Zhejiang University, China
    - Prof. Kai-Chieh Hu, School of Business, Soochow University, Taiwan
    - Associate Prof. Kyoung-Suk Choi, College of Business and Economics, Jeonbuk National University, Republic of Korea
+- International Journal of Logistics Management (IJLM)
+   - The choice papers presented at the conference will be recommended to the IJLM by the conference organizers. The journal will rigorously review the papers. 
 
 Additional journals are currently under discussion and will be announced as soon as the partnerships are confirmed.
 Final inclusion is subject to the editorial decision of each journal.
