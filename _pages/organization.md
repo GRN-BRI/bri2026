@@ -15,7 +15,7 @@ The 2026 conference is hosted and organized by the College of Business and Econo
 Assoc. Prof. Choi, Kyoung-Suk, Dean, College of Business and Economics, Jeonbuk National University, Republic of Korea<br>
 
 **Conference Co-Chair**<br>
-Prof. Lee, Paul Tae-Woo, Director, Maritime Logistics and Free Trade Islands Research Center; Director, Institute of Maritime Logistics, Ocean College, Zhejiang University, China<br>
+Prof. Lee, Paul Tae-Woo, Director, Maritime Logistics and Free Trade Islands Research Center; Director, Institute of Maritime Logistics, Ocean College, Zhejiang University, China; Transportation Institute, Chulalongkorn University, Thailand.<br>
 
 **Program Chair**<br>
 Assist. Prof. Jo, Ah-Hyun, Department of International Trade, Jeonbuk National University, Republic of Korea<br>
@@ -50,7 +50,7 @@ The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the follo
 Prof. Prem Chhetri, RMIT University, Australia<br>
 
 **Secretary General**<br>
-Prof. Lee, Paul Tae-Woo, Zhejiang University, China<br>
+Prof. Lee, Paul Tae-Woo, Zhejiang University, China; Transportation Institute, Chulalongkorn University, Thailand.<br>
 
 **Academic Affairs Leader**<br>
 Prof. Yang, Zhong Zhen , Ningbo University, China<br>
