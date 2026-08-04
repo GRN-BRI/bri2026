@@ -50,7 +50,7 @@ The Global Research Network Belt - Road Initiative (GRN-BRI) is led by the follo
 Prof. Prem Chhetri, RMIT University, Australia<br>
 
 **Secretary General**<br>
-Prof. Lee, Paul Tae-Woo, Zhejiang University, China; Transportation Institute, Chulalongkorn University, Thailand.<br>
+Prof. Lee, Paul Tae-Woo, Zhejiang University, China; Chulalongkorn University, Thailand<br>
 
 **Academic Affairs Leader**<br>
 Prof. Yang, Zhong Zhen , Ningbo University, China<br>
@@ -69,7 +69,7 @@ Ishii, Masahiro, Sophia University, Japan<br>
 Jiang, Chaozhe, Southwest Jiaotong University, China<br>
 Lam, Jasmine Siu Lee, Technical University of Denmark, Denmark<br>
 Lee, Jun Yeop, Inha University, Republic of Korea<br>
-Lee, Paul Tae-Woo, Zhejiang University, China<br>
+Lee, Paul Tae-Woo, Zhejiang University, China; Chulalongkorn University, Thailand<br>
 Lim, K. Ming, University of Glasgow, United Kingdom<br>
 Liu, Weihua, Tianjin University, China<br>
 Mishra, Animesh, ICFAI Business School (IFHE), Hyderabad, India<br>
