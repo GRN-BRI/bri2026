@@ -51,7 +51,7 @@ Final inclusion is subject to the editorial decision of each journal.
 ### Template：
 - [Abstract Template](/bri2026/downloads/Abstract%20Template_JBNU.docx)
 - [Full Paper Template](/bri2026/downloads/Full%20Paper%20Template_JBNU.docx)
-- [Cover Sheet Template](/bri2026/downloads/GRN-BRI2026_Submission_Cover_Sheet.docx)
+- [Cover Sheet Template](/bri2026/downloads/GRNBRI2026_Submission_Cover_Sheet_v2_1.docx.docx)
 
 
 
