@@ -6,7 +6,21 @@ sitemap: false
 permalink: /registration
 ---
 
-# Registration
+<style>
+  .table thead th {
+      text-align: center;
+      vertical-align: middle;
+      background-color: #eaf1f8;
+      color: #1f3864;
+      font-weight: 700;
+      border-bottom: 2px solid #b9cce4;
+  }
+  .table tbody tr:nth-child(even) {
+      background-color: #f7f9fc;
+  }
+  </style>
+  
+  # Registration
 
 ### Registration Fees
 
