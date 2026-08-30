@@ -15,7 +15,7 @@ permalink: /registration
 **Registration Deadline: October 16, 2026**
 
 | Participant Category | Fee |
-| :--- | :---: |
+| --- | --- |
 | **Standard / Regular** | 400 USD (KRW 520,000) |
 | **Students**| 300 USD (KRW 390,000) |
 {: .table .table-bordered}
@@ -28,7 +28,7 @@ The registration fee covers all academic sessions, conference materials, coffee 
 **Option 1. PayPal payment link** (a PayPal account is required)
 
 | Participant Category | Payment Link |
-| :--- | :--- |
+| --- | --- |
 | **Standard / Regular** | [Pay 400 USD](https://paypal.me/grnbri2026/400USD) |
 | **Students** | [Pay 300 USD](https://paypal.me/grnbri2026/300USD) |
 {: .table .table-bordered}
@@ -45,7 +45,7 @@ Please note that payments must be made with a **credit card**. Debit cards are f
 Bank transfer to the account below.
 
 | Item | Details |
-| :--- | :--- |
+| --- | --- |
 | **Bank** | KakaoBank (카카오뱅크) |
 | **Account Number** | 3333-38-2801529 |
 | **Account Holder** | 조아현 (Ah-Hyun Jo) |
@@ -64,7 +64,7 @@ Cash only (KRW or USD). Card terminals are not available at the venue. Internati
 ### Refund Policy
 
 | Cancellation Date | Refund |
-| :--- | :--- |
+| --- | --- |
 | On or before October 16, 2026 | Full refund (less transaction fees) |
 | October 17 – November 10, 2026 | 50% refund |
 | From November 11, 2026 | No refund |
@@ -76,7 +76,7 @@ Refund requests should be sent to [grnbri2026@gmail.com](mailto:grnbri2026@gmail
 ### Agenda
 
 | Dates | Activity |
-| :--- | :--- |
+| --- | --- |
 | **Day 1(Nov 26, 2026)** | Registration · Opening Ceremony · Keynote Speeches · Parallel Sessions |
 | **Day 2 (Nov 27, 2026)** | Parallel Sessions · Conference Gala Dinner |
 | **Day 3 (Nov 28, 2026)** | Parallel Sessions · Research Network Session |
