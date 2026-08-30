@@ -64,10 +64,6 @@ Final inclusion is subject to the editorial decision of each journal.
 5. Conference dates: **November 26–28, 2026.**
 
 
-### Early-Acceptance Letter Request:
-If you require an **acceptance letter** earlier than the standard timeline (e.g., for visa, travel funding, or institutional approval), please contact the Program Chair, Prof. Ah-Hyun Jo ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr)).
-
-
 <br>
 
 
