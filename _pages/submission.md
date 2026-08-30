@@ -45,7 +45,3 @@ Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supp
 ④ Corresponding Author (Name, Affiliation, E-mail)<br>
 ⑤ Co-Authors (Name, Affiliation, E-mail)<br>
 ⑥ Keywords (3–5)<br>
-
-### 6. Contact for Submissions
-Prof. Ah-Hyun Jo (Program Chair) — ([ahjo@jbnu.ac.kr](mailto:ahjo@jbnu.ac.kr))
-
