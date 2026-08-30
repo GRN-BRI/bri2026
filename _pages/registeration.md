@@ -27,8 +27,8 @@ The registration fee covers all academic sessions, conference materials, coffee 
 
 | Participant Category | Payment Link |
 | :--- | :--- |
-| **Standard / Regular** | [https://paypal.me/grnbri2026/400USD](https://paypal.me/grnbri2026/400USD) |
-| **Students** | [https://paypal.me/grnbri2026/300USD](https://paypal.me/grnbri2026/300USD) |
+| **Standard / Regular** | [Pay 400 USD](https://paypal.me/grnbri2026/400USD) |
+| **Students** | [Pay 300 USD](https://paypal.me/grnbri2026/300USD) |
 {: .table .table-bordered}
 
 **Option 2. Invoice** (no PayPal account required)
@@ -45,7 +45,7 @@ Bank transfer to the account below.
 | Item | Details |
 | :--- | :--- |
 | **Bank** | KakaoBank (카카오뱅크) |
-| **Account Number** | 3333382801529 |
+| **Account Number** | 3333-38-2801529 |
 | **Account Holder** | 조아현 (Ah-Hyun Jo) |
 {: .table .table-bordered}
 
@@ -56,7 +56,7 @@ Receipts and certificates of participation are issued upon request to [grnbri202
 
 ### On-site Registration
 
-Cash only (KRW or USD). Card terminals are not available at the venue. Participants who wish to pay by card on site may request an invoice at the registration desk and complete the payment on their mobile device.
+Cash only (KRW or USD). Card terminals are not available at the venue. International participants who wish to pay by card on site may request an invoice at the registration desk and complete the payment on their mobile device. Domestic (Korean) participants should pay by bank transfer in advance or in cash on site.
 <br>
 
 ### Refund Policy
