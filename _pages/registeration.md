@@ -39,6 +39,7 @@ If you do not have a PayPal account, or if you require an invoice for institutio
 
 Please note that payments must be made with a **credit card**. Debit cards are frequently declined for international transactions.
 <br>
+If you do not have a PayPal account, or if you require an invoice for institutional reimbursement, please email <span style="color:#0099cc;">grnbri2026@gmail.com</span> with your name, affiliation, and registration category. We will send you an invoice that can be paid directly by <span style="color:#ff00ff;">credit</span> card.
 
 ### Payment — Domestic Participants (Korea)
 
