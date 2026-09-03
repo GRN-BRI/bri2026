@@ -25,21 +25,10 @@ The registration fee covers all academic sessions, conference materials, coffee 
 
 ### Payment — International Participants
 
-**Option 1. PayPal payment link** (a PayPal account is required)
+The conference is currently updating its payment arrangements for international participants. Payment details will be posted on this page shortly, and will also be sent by email to the authors of accepted papers.
 
-| Participant Category | Payment Link |
-| --- | --- |
-| **Standard / Regular** | [Pay 400 USD](https://paypal.me/grnbri2026/400USD) |
-| **Students** | [Pay 300 USD](https://paypal.me/grnbri2026/300USD) |
-{: .table .table-bordered}
-
-**Option 2. Invoice** (no PayPal account required)
-
-If you do not have a PayPal account, or if you require an invoice for institutional reimbursement, please email [grnbri2026@gmail.com](mailto:grnbri2026@gmail.com) with your name, affiliation, and registration category. We will send you an invoice that can be paid directly by card.
-
-Please note that payments must be made with a **credit card**. Debit cards are frequently declined for international transactions.
+Registration remains open until 16 October 2026, and your acceptance and place in the programme are unaffected.
 <br>
-If you do not have a PayPal account, or if you require an invoice for institutional reimbursement, please email <span style="color:#0099cc;">grnbri2026@gmail.com</span> with your name, affiliation, and registration category. We will send you an invoice that can be paid directly by <span style="color:#ff00ff;">credit</span> card.
 
 ### Payment — Domestic Participants (Korea)
 
@@ -59,14 +48,14 @@ Receipts and certificates of participation are issued upon request to [grnbri202
 
 ### On-site Registration
 
-Cash only (KRW or USD). Card terminals are not available at the venue. International participants who wish to pay by card on site may request an invoice at the registration desk and complete the payment on their mobile device. Domestic (Korean) participants should pay by bank transfer in advance or in cash on site.
+Cash only (KRW or USD). Card terminals are not available at the venue. Domestic (Korean) participants should pay by bank transfer in advance or in cash on site.
 <br>
 
 ### Refund Policy
 
 | Cancellation Date | Refund |
 | --- | --- |
-| On or before October 16, 2026 | Full refund (less transaction fees) |
+| On or before October 16, 2026 | Full refund |
 | October 17 – November 10, 2026 | 50% refund |
 | From November 11, 2026 | No refund |
 {: .table .table-bordered}
