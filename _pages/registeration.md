@@ -25,9 +25,32 @@ The registration fee covers all academic sessions, conference materials, coffee 
 
 ### Payment — International Participants
 
-The conference is currently updating its payment arrangements for international participants. Payment details will be posted on this page shortly, and will also be sent by email to the authors of accepted papers.
+The registration fee should be paid in **US dollars** by international bank transfer to the account below, on or before 16 October 2026.
 
-Registration remains open until 16 October 2026, and your acceptance and place in the programme are unaffected.
+| Item | Details |
+| --- | --- |
+| **Bank** | Shinhan Bank |
+| **SWIFT (BIC) Code** | SHBKKRSE |
+| **Account Number** | 180-046-146438 |
+| **Account Holder** | CHOI KYOUNG SUK |
+| **Bank Address** | 20, Sejong-daero 9-gil, Jung-gu, Seoul 04513, Republic of Korea |
+{: .table .table-bordered}
+
+The account is held in the name of the General Chair on behalf of the GRN-BRI 2026 Organizing Committee.
+
+**When making the transfer**
+
+Please enter your name and paper ID (e.g., GRNBRI2026-001) in the remittance information so that we can identify your payment.
+
+Co-authors and participants attending together should each make a separate transfer.
+
+Bank charges are payable by the sender.
+
+After completing the transfer, please email a copy of the remittance receipt to [grnbri2026@gmail.com](mailto:grnbri2026@gmail.com). We will confirm your registration by email.
+
+Receipts, certificates of participation, and invoices for institutional reimbursement are issued on request to [grnbri2026@gmail.com](mailto:grnbri2026@gmail.com).
+
+If a bank transfer is not possible, payment may be made in cash (KRW or USD) at the registration desk on site.
 <br>
 
 ### Payment — Domestic Participants (Korea)
