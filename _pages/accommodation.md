@@ -32,3 +32,32 @@ A block of 50 rooms has been reserved for GRN-BRI 2026 participants.
  
 
 
+
+
+<br>
+
+### Shilla Stay Jeonju
+
+A modern business hotel located on the same street as the Best Western Plus Jeonju Hotel.
+
+- Distance: Approx. 20 min by taxi (6 km) from the venue.
+- Address: 10 Hyeonmu 1-gil, Wansan-gu, Jeonju-si, Jeonbuk State, Republic of Korea
+- Tel: +82-63-913-3400
+- Website: [https://www.shillahotels.com/en/shillastay/jeonju/index.do](https://www.shillahotels.com/en/shillastay/jeonju/index.do)
+
+**How to Book**
+- Please book directly through the hotel website. No conference discount applies.
+
+<br>
+
+### Jeonju Wangyijimil Hanok Hotel
+
+A premium traditional Korean hanok hotel, a short drive from Jeonju Hanok Village.
+
+- Distance: Approx. 25 min by taxi (9 km) from the venue.
+- Address: 5218-7 Chunhyang-ro, Wansan-gu, Jeonju-si, Jeonbuk State, Republic of Korea
+- Tel: +82-63-284-1004
+- Website: [http://royalroom.co.kr](http://royalroom.co.kr)
+
+**How to Book**
+- Please book directly through the hotel website. No conference discount applies.
