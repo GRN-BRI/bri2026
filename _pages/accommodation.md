@@ -8,9 +8,13 @@ permalink: /accommodation
 
 # Accommodation
 
+<div markdown="1" style="border: 3px solid #1f3864; border-radius: 10px; background-color: #f3f7fc; padding: 18px 22px; margin: 10px 0 36px;">
+
+<span style="display: inline-block; background-color: #1f3864; color: #ffffff; font-weight: 700; padding: 4px 12px; border-radius: 4px; font-size: 0.9em; letter-spacing: 0.5px;">★ OFFICIAL CONFERENCE HOTEL — CONFERENCE RATE</span>
+
 ### Best Western Plus Jeonju Hotel (베스트웨스턴 플러스 전주호텔)
 
-The official conference hotel. A block of 50 rooms has been reserved for GRN-BRI 2026 participants for 25–28 November 2026 (3 nights).
+A block of 50 rooms has been reserved for GRN-BRI 2026 participants for 25–28 November 2026 (3 nights).
 
 - Distance: Approx. 5 km from the venue.
 - Address: 41 Hyeonmu 1-gil, Wansan-gu, Jeonju-si, Jeonbuk State, Republic of Korea
@@ -25,7 +29,7 @@ The official conference hotel. A block of 50 rooms has been reserved for GRN-BRI
 **How to Book**
 - Download the reservation form (Word): [GRN-BRI2026_BestWestern_Reservation_Form.docx](/bri2026/downloads/GRN-BRI2026_BestWestern_Reservation_Form.docx)
 - See a completed sample (PDF): [GRN-BRI2026_BestWestern_Reservation_Form_SAMPLE.pdf](/bri2026/downloads/GRN-BRI2026_BestWestern_Reservation_Form_SAMPLE.pdf)
-- Fill in the form in English (see the guide below) and send it by e-mail to [reservation@bwplusjj.co.kr](mailto:reservation@bwplusjj.co.kr), with the subject "GRN-BRI 2026 (#26518480) Reservation – Your Name". You can also book by phone: +82-63-231-7777.
+- Fill in the form and send it by e-mail to [reservation@bwplusjj.co.kr](mailto:reservation@bwplusjj.co.kr), with the subject "GRN-BRI 2026 (#26518480) Reservation – Your Name". You can also book by phone: +82-63-231-7777.
 - Group name and code: Jeonbuk National University GRN-BRI 2026 (#26518480)
 - Deadline: Please book by **31 October 2026**. Bookings made by this date are guaranteed a room at the conference rate. After 31 October, the conference rate is available only while rooms remain.
 - Your credit card details are used only to guarantee the booking. You pay the hotel directly at check-in. If you prefer not to send card details by e-mail, please book by phone.
@@ -34,35 +38,18 @@ The official conference hotel. A block of 50 rooms has been reserved for GRN-BRI
 
 **How to Fill in the Form**
 
-Fields marked (Required) must be completed. The other fields are optional.
-
-| Field | What to write | Example |
-| --- | --- | --- |
-| Guest Name (Required) | Your full name as shown in your passport | Jane DOE |
-| Company | Your university or organization | University of Example |
-| Mobile (Required) | Mobile number with country code | +44 7700 900123 |
-| E-mail | So the hotel can contact you | jane.doe@example.com |
-| Credit Card# / Expiry date (Required) | Card number and expiry date (MM/YY). Used only to guarantee the booking | 1234 5678 9012 3456 / 08/29 |
-| Check-In / Check-out (Required) | Your arrival and departure dates | 25 Nov 2026 / 28 Nov 2026 |
-| Guest (Adult/Child) (Required) | Number of adults / children in the room | 1 / 0 |
-| Nights | Number of nights | 3 |
-| Room Type (Required) | Tick Standard Double (one double bed) or Standard Twin (two single beds) | Standard Double |
-| Room Rate | Rate per night | KRW 99,000 |
-| Breakfast (Y/N) | Tick Y or N. KRW 19,000 per person, per morning | Y |
-| Total Rate | Room rate × nights, plus breakfast if selected | KRW 354,000 (99,000 × 3 + 19,000 × 3) |
-| Agreement to the Change/Cancellation Policy | Tick YES | YES |
-{: .table .table-bordered}
+Fill in the form in English. Fields marked (Required) must be completed. Please refer to the [completed sample (PDF)](/bri2026/downloads/GRN-BRI2026_BestWestern_Reservation_Form_SAMPLE.pdf).
 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.090194434071!2d127.14443101245278!3d35.822262722097584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357023143e85a7a5%3A0xa66ee4cba815d017!2sBest%20Western%20Plus%20Jeonju%20Hotel!5e0!3m2!1sen!2skr!4v1769661775203!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
- 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.090194434071!2d127.14443101245278!3d35.822262722097584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357023143e85a7a5%3A0xa66ee4cba815d017!2sBest%20Western%20Plus%20Jeonju%20Hotel!5e0!3m2!1sen!2skr!4v1769661775203!5m2!1sen!2skr" width="600" height="450" style="border:0; max-width:100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+</div>
 
+### Other Hotels Nearby
 
+The following hotels are listed for reference only. Please book directly with each hotel; the conference rate does not apply.
 
-<br>
-
-### Shilla Stay Jeonju (신라스테이 전주)
+#### Shilla Stay Jeonju (신라스테이 전주)
 
 A modern business hotel located on the same street as the Best Western Plus Jeonju Hotel.
 
@@ -83,7 +70,7 @@ A modern business hotel located on the same street as the Best Western Plus Jeon
 
 <br>
 
-### Jeonju Wangyijimil Hanok Hotel (전주 왕의지밀 한옥호텔)
+#### Jeonju Wangyijimil Hanok Hotel (전주 왕의지밀 한옥호텔)
 
 A premium traditional Korean hanok hotel, a short drive from Jeonju Hanok Village.
 
