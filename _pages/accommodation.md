@@ -45,11 +45,13 @@ Fill in the form in English. Fields marked (Required) must be completed. Please 
 
 </div>
 
-### Other Hotels Nearby
+<span style="display: inline-block; background-color: #5b6b80; color: #ffffff; font-weight: 700; padding: 4px 12px; border-radius: 4px; font-size: 0.9em; letter-spacing: 0.5px;">OTHER HOTELS NEARBY — BOOK DIRECTLY</span>
 
 The following hotels are listed for reference only. Please book directly with each hotel; the conference rate does not apply.
 
-#### Shilla Stay Jeonju (신라스테이 전주)
+<div markdown="1" style="border: 1px solid #c9d3e0; border-radius: 10px; background-color: #ffffff; padding: 18px 22px; margin: 16px 0 28px;">
+
+### Shilla Stay Jeonju (신라스테이 전주)
 
 A modern business hotel located on the same street as the Best Western Plus Jeonju Hotel.
 
@@ -66,11 +68,13 @@ A modern business hotel located on the same street as the Best Western Plus Jeon
 **How to Book**
 - Please book directly through the hotel website. No conference discount applies.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.2!2d127.148937!3d35.819812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357023674a619fc5%3A0x673808e6461462e1!2sShilla%20Stay%20Jeonju!5e0!3m2!1sen!2skr!4v1790000000000!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3235.2!2d127.148937!3d35.819812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357023674a619fc5%3A0x673808e6461462e1!2sShilla%20Stay%20Jeonju!5e0!3m2!1sen!2skr!4v1790000000000!5m2!1sen!2skr" width="600" height="450" style="border:0; max-width:100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<br>
+</div>
 
-#### Jeonju Wangyijimil Hanok Hotel (전주 왕의지밀 한옥호텔)
+<div markdown="1" style="border: 1px solid #c9d3e0; border-radius: 10px; background-color: #ffffff; padding: 18px 22px; margin: 16px 0 28px;">
+
+### Jeonju Wangyijimil Hanok Hotel (전주 왕의지밀 한옥호텔)
 
 A premium traditional Korean hanok hotel, a short drive from Jeonju Hanok Village.
 
@@ -89,4 +93,6 @@ A premium traditional Korean hanok hotel, a short drive from Jeonju Hanok Villag
 **How to Book**
 - Please book directly through the hotel website. No conference discount applies.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.0!2d127.177688!3d35.800062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3570247a17d649cf%3A0x86d8fe8a05fd9f66!2sRoyal%20Room%20of%20King%20(Wangyijiml%20Hanok%20Hotel)!5e0!3m2!1sen!2skr!4v1790000000000!5m2!1sen!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3236.0!2d127.177688!3d35.800062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3570247a17d649cf%3A0x86d8fe8a05fd9f66!2sRoyal%20Room%20of%20King%20(Wangyijiml%20Hanok%20Hotel)!5e0!3m2!1sen!2skr!4v1790000000000!5m2!1sen!2skr" width="600" height="450" style="border:0; max-width:100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
