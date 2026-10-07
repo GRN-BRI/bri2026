@@ -92,3 +92,16 @@ firstp {
 }
 /*menu logo*/
 .menuLogo { padding: 10px; }
+
+
+/* Readability tweaks (2026-10): a little more space between sections, text, lists and tables */
+#textid, #gridid, .container-fluid > .row { line-height: 1.65; }
+#textid h2, #gridid h2, .container-fluid > .row > h2 { margin-top: 40px; margin-bottom: 14px; }
+#textid h3, #gridid h3, .container-fluid > .row > h3 { margin-top: 36px; margin-bottom: 12px; }
+#textid h4, #gridid h4, .container-fluid > .row > h4 { margin-top: 26px; margin-bottom: 10px; }
+#textid h1 + h2, #textid h1 + h3, #gridid h1 + h2, #gridid h1 + h3, .container-fluid > .row > h1 + h2, .container-fluid > .row > h1 + h3 { margin-top: 18px; }
+#textid p, .container-fluid > .row > p { margin-bottom: 12px; }
+#textid ul, #textid ol, .container-fluid > .row > ul, .container-fluid > .row > ol { margin-bottom: 16px; }
+#textid li, .container-fluid > .row > ul > li, .container-fluid > .row > ol > li { margin-bottom: 4px; }
+#textid table { margin-bottom: 24px; }
+#textid div[style] > h3, #textid div[style] > h4 { margin-top: 12px; }
