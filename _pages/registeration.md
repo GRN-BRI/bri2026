@@ -64,7 +64,7 @@ Bank transfer to the account below.
 | **Account Holder** | 조아현 (Ah-Hyun Jo) |
 {: .table .table-bordered}
 
-The account is held by the Program Chair on behalf of the GRN-BRI 2026 Organizing Committee. Please enter your name and institution as the depositor reference. Payment may also be made directly by your institution.
+The account is held on behalf of the GRN-BRI 2026 Organizing Committee. Please enter your name and institution as the depositor reference. Payment may also be made directly by your institution.
 
 Receipts and certificates of participation are issued upon request to [grnbri2026@gmail.com](mailto:grnbri2026@gmail.com). Tax invoices are not issued.
 <br>
