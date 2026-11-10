@@ -17,9 +17,6 @@ Assoc. Prof. Choi, Kyoung-Suk, Dean, College of Business and Economics, Jeonbuk 
 **Conference Co-Chair**<br>
 Prof. Lee, Paul Tae-Woo, Director, Maritime Logistics and Free Trade Islands Research Center; Director, Institute of Maritime Logistics, Ocean College, Zhejiang University, China; Transportation Institute, Chulalongkorn University, Thailand.<br>
 
-**Program Chair**<br>
-Assist. Prof. Jo, Ah-Hyun, Department of International Trade, Jeonbuk National University, Republic of Korea<br>
-
 **Local Organizing Committee**<br>
 Assist. Prof. Lee, Yoon, Jeonbuk National University, Republic of Korea<br>
 Assist. Prof. Choi, Hanbyul, Jeonbuk National University, Republic of Korea<br>
