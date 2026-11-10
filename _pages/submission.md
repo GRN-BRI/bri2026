@@ -36,7 +36,7 @@ Send the following two files in ONE e-mail:
 To: ([grnbri2026@gmail.com](mailto:grnbri2026@gmail.com))
 
 Subject line format: [GRN-BRI2026][Track T#] Paper Title — Corresponding Author<br>
-Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supply Chain Resilience — Ah-Hyun Jo
+Example: [GRN-BRI2026][T2] The Impact of Belt and Road Initiative on Global Supply Chain Resilience — Jane Doe
 
 ### 5. Cover Sheet Required Fields
 ① Paper Title<br>
