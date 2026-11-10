@@ -11,10 +11,8 @@ permalink: /contact
 ## Conference Organizer:
 College of Business and Economics, Jeonbuk National University
 
-## Primary Contact (Program Chair):
-Assistant Prof. Ah-Hyun Jo, Department of International Trade<br>
-Jeonbuk National University<br>
-E-mail:  <a href="ahjo@jbnu.ac.kr"> ahjo@jbnu.ac.kr </a><br>
+## Primary Contact:
+E-mail: <a href="mailto:grnbri2026@gmail.com">grnbri2026@gmail.com</a><br>
 
 ## Secretariat:
 Xia Wu, <a href="lxygwqf123456@gmail.com"> lxygwqf123456@gmail.com </a> 
