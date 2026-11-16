@@ -57,7 +57,7 @@ You can get a bus ticket in three ways: **(1)** book online in advance on [TxBus
 </table>
 </div>
 
-<img src="/bri2026/images/bus-guide/taxi_intercity.jpg" alt="Taxi route from Jeonju Intercity Bus Terminal to JBNU Convention Center, 10 min, 3.8 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
+<img src="/bri2026/images/bus-guide/gmap_taxi_intercity.jpg" alt="Taxi route from Jeonju Intercity Bus Terminal to JBNU Convention Center, 10 min, 3.8 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
 
 #### Option B. Daihan Limousine to Jeonju Limousine Terminal
 
@@ -69,7 +69,7 @@ You can get a bus ticket in three ways: **(1)** book online in advance on [TxBus
 </table>
 </div>
 
-<img src="/bri2026/images/bus-guide/taxi_limousine.jpg" alt="Taxi route from Jeonju Limousine Terminal to JBNU Convention Center, 13 min, 6.6 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
+<img src="/bri2026/images/bus-guide/gmap_taxi_limousine.jpg" alt="Taxi route from Jeonju Limousine Terminal to JBNU Convention Center, 13 min, 6.6 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
 
 #### Option C. AREX and KTX train (if you prefer trains or plan to stop in Seoul)
 
@@ -82,7 +82,7 @@ You can get a bus ticket in three ways: **(1)** book online in advance on [TxBus
 </table>
 </div>
 
-<img src="/bri2026/images/bus-guide/taxi_station.jpg" alt="Taxi route from Jeonju Station to JBNU Convention Center, 13 min, 5.7 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
+<img src="/bri2026/images/bus-guide/gmap_taxi_station.jpg" alt="Taxi route from Jeonju Station to JBNU Convention Center, 13 min, 5.7 km" style="width:100%;max-width:820px;border:1px solid #c8ccd6;border-radius:6px;margin:6px 0 16px;">
 
 **Note:** Only a few KTX trains run from Seoul Station to Jeonju each day. For more departures, take Subway Line 1 two stops from Seoul Station to **Yongsan Station**, where KTX trains to Jeonju run more often. Train tickets: online or at the station.
 
