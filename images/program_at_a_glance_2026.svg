@@ -9,8 +9,8 @@
 <line x1="122" y1="98" x2="122" y2="128" stroke="#9aa9bd"/>
 <line x1="414" y1="98" x2="414" y2="128" stroke="#9aa9bd"/>
 <text x="66" y="118" font-size="14" font-weight="700" fill="#1f3864" text-anchor="middle">08:00</text>
-<text x="131" y="118" font-size="14.5" font-weight="400" fill="#111">Shuttle bus: Best Western Plus → Venue</text>
-<text x="422" y="118" font-size="12.5" fill="#333">Best Western Plus Jeonju</text>
+<text x="131" y="118" font-size="14.5" font-weight="400" fill="#111">Shuttle from Best Western Plus Hotel</text>
+<text x="422" y="118" font-size="12.5" fill="#333">→ Convention Center</text>
 <rect x="10" y="128" width="580" height="30" fill="#ffffff" stroke="#9aa9bd" stroke-width="1"/>
 <line x1="122" y1="128" x2="122" y2="158" stroke="#9aa9bd"/>
 <line x1="414" y1="128" x2="414" y2="158" stroke="#9aa9bd"/>
@@ -63,7 +63,7 @@
 <line x1="122" y1="368" x2="122" y2="398" stroke="#9aa9bd"/>
 <line x1="414" y1="368" x2="414" y2="398" stroke="#9aa9bd"/>
 <text x="66" y="388" font-size="14" font-weight="700" fill="#1f3864" text-anchor="middle">18:30</text>
-<text x="131" y="388" font-size="14.5" font-weight="400" fill="#111">Shuttle bus: Venue → Best Western Plus</text>
+<text x="131" y="388" font-size="14.5" font-weight="400" fill="#111">Shuttle to Best Western Plus Hotel</text>
 <text x="422" y="388" font-size="12.5" fill="#333">Main Entrance (1F)</text>
 <rect x="10" y="398" width="580" height="30" fill="#ffffff" stroke="#9aa9bd" stroke-width="1"/>
 <line x1="122" y1="398" x2="122" y2="428" stroke="#9aa9bd"/>
@@ -77,8 +77,8 @@
 <line x1="722" y1="98" x2="722" y2="128" stroke="#9aa9bd"/>
 <line x1="1014" y1="98" x2="1014" y2="128" stroke="#9aa9bd"/>
 <text x="666" y="118" font-size="14" font-weight="700" fill="#1f3864" text-anchor="middle">08:00</text>
-<text x="731" y="118" font-size="14.5" font-weight="400" fill="#111">Shuttle bus: Best Western Plus → Venue</text>
-<text x="1022" y="118" font-size="12.5" fill="#333">Best Western Plus Jeonju</text>
+<text x="731" y="118" font-size="14.5" font-weight="400" fill="#111">Shuttle from Best Western Plus Hotel</text>
+<text x="1022" y="118" font-size="12.5" fill="#333">→ Convention Center</text>
 <rect x="610" y="128" width="580" height="30" fill="#fde9d9" stroke="#9aa9bd" stroke-width="1"/>
 <line x1="722" y1="128" x2="722" y2="158" stroke="#9aa9bd"/>
 <line x1="1014" y1="128" x2="1014" y2="158" stroke="#9aa9bd"/>
