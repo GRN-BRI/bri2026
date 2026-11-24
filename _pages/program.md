@@ -8,6 +8,10 @@ permalink: /program
 
 # Program
 
+### The 11th GRN-BRI Conference 2026 (Main Conference)
+
+The final program of the main conference (26–28 November 2026, International Convention Center JBNU) will be provided on site through a QR code. Please scan the QR code at the venue to view the program.
+
 ### Pre-Conference: 2026 CAU–ZJU Global Logistics Symposium
 
 As a pre-conference event of the 11th GRN-BRI, the 2026 CAU–ZJU Global Logistics Symposium will be held at Chung-Ang University (Building 310), Seoul, Republic of Korea, on November 24–25, 2026. On-site registration will take place on November 23, 2026.
